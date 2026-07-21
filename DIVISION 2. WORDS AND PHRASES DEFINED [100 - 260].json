@@ -1,0 +1,3214 @@
+{
+    "metadata": {
+        "id": "EVID-DIVISION-2-WORDS-AND-PHRASES-DEFINED-100-260-",
+        "code": "EVID",
+        "title": "EVIDENCE CODE - EVID",
+        "heading": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]",
+        "jurisdiction": "California",
+        "authority": "California Legislature",
+        "scraped": "2026-07-21T06:18:37.484Z",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=EVID&division=2.&title=&part=&chapter=&article=",
+        "version": "current"
+    },
+    "index": {
+        "sections": 32,
+        "paragraphs": 42,
+        "citations": 4,
+        "keywords": 282
+    },
+    "sections": [
+        {
+            "id": "EVID-100",
+            "section": "100",
+            "citation": "EVID §100",
+            "text": "Unless the provision or context otherwise requires, these definitions govern the construction of this code.",
+            "paragraphs": [
+                {
+                    "id": "100-p2",
+                    "text": "Unless the provision or context otherwise requires, these definitions govern the construction of this code."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "100",
+                "299",
+                "1965",
+                "unless",
+                "provision",
+                "context",
+                "otherwise",
+                "requires",
+                "these",
+                "definitions",
+                "govern",
+                "construction",
+                "code",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "100. unless the provision or context otherwise requires, these definitions govern the construction of this code. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "100",
+                    "unless",
+                    "the",
+                    "provision",
+                    "or",
+                    "context",
+                    "otherwise",
+                    "requires",
+                    "these",
+                    "definitions",
+                    "govern",
+                    "the",
+                    "construction",
+                    "of",
+                    "this",
+                    "code",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": null,
+                "next": "EVID-105",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[2]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('100.','3','1965','299','', 'id_1e89c2c9-291f-11d9-a64a-d333b3af1e07')\">100.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">Unless the provision or context otherwise requires, these definitions govern the construction of this code.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-105",
+            "section": "105",
+            "citation": "EVID §105",
+            "text": "“Action” includes a civil action and a criminal action.",
+            "paragraphs": [
+                {
+                    "id": "105-p2",
+                    "text": "“Action” includes a civil action and a criminal action."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "action",
+                "105",
+                "299",
+                "1965",
+                "includes",
+                "civil",
+                "criminal",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "105. “action” includes a civil action and a criminal action. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "105",
+                    "action",
+                    "includes",
+                    "a",
+                    "civil",
+                    "action",
+                    "and",
+                    "a",
+                    "criminal",
+                    "action",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-104",
+                "next": "EVID-110",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[3]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('105.','3','1965','299','', 'id_1e8b496b-291f-11d9-a64a-d333b3af1e07')\">105.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Action” includes a civil action and a criminal action.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-110",
+            "section": "110",
+            "citation": "EVID §110",
+            "text": "“Burden of producing evidence” means the obligation of a party to introduce evidence sufficient to avoid a ruling against him on the issue.",
+            "paragraphs": [
+                {
+                    "id": "110-p2",
+                    "text": "“Burden of producing evidence” means the obligation of a party to introduce evidence sufficient to avoid a ruling against him on the issue."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "evidence",
+                "110",
+                "299",
+                "1965",
+                "burden",
+                "producing",
+                "means",
+                "obligation",
+                "party",
+                "introduce",
+                "sufficient",
+                "avoid",
+                "ruling",
+                "against",
+                "him",
+                "issue",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "110. “burden of producing evidence” means the obligation of a party to introduce evidence sufficient to avoid a ruling against him on the issue. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "110",
+                    "burden",
+                    "of",
+                    "producing",
+                    "evidence",
+                    "means",
+                    "the",
+                    "obligation",
+                    "of",
+                    "a",
+                    "party",
+                    "to",
+                    "introduce",
+                    "evidence",
+                    "sufficient",
+                    "to",
+                    "avoid",
+                    "a",
+                    "ruling",
+                    "against",
+                    "him",
+                    "on",
+                    "the",
+                    "issue",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-109",
+                "next": "EVID-115",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[4]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('110.','3','1965','299','', 'id_1e8b496d-291f-11d9-a64a-d333b3af1e07')\">110.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Burden of producing evidence” means the obligation of a party to introduce evidence sufficient to avoid a ruling against him on the issue.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-115",
+            "section": "115",
+            "citation": "EVID §115",
+            "text": "“Burden of proof” means the obligation of a party to establish by evidence a requisite degree of belief concerning a fact in the mind of the trier of fact or the court. The burden of proof may require a party to raise a reasonable doubt concerning the existence or nonexistence of a fact or that he establish the existence or nonexistence of a fact by a preponderance of the evidence, by clear and convincing proof, or by proof beyond a reasonable doubt. Except as otherwise provided by law, the burden of proof requires proof by a preponderance of the evidence.",
+            "paragraphs": [
+                {
+                    "id": "115-p2",
+                    "text": "“Burden of proof” means the obligation of a party to establish by evidence a requisite degree of belief concerning a fact in the mind of the trier of fact or the court. The burden of proof may require a party to raise a reasonable doubt concerning the existence or nonexistence of a fact or that he establish the existence or nonexistence of a fact by a preponderance of the evidence, by clear and convincing proof, or by proof beyond a reasonable doubt."
+                },
+                {
+                    "id": "115-p4",
+                    "text": "Except as otherwise provided by law, the burden of proof requires proof by a preponderance of the evidence."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "proof",
+                "fact",
+                "burden",
+                "evidence",
+                "party",
+                "establish",
+                "concerning",
+                "reasonable",
+                "doubt",
+                "existence",
+                "nonexistence",
+                "preponderance",
+                "115",
+                "299",
+                "1965",
+                "means",
+                "obligation",
+                "requisite",
+                "degree",
+                "belief"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "115. “burden of proof” means the obligation of a party to establish by evidence a requisite degree of belief concerning a fact in the mind of the trier of fact or the court. the burden of proof may require a party to raise a reasonable doubt concerning the existence or nonexistence of a fact or that he establish the existence or nonexistence of a fact by a preponderance of the evidence, by clear and convincing proof, or by proof beyond a reasonable doubt. except as otherwise provided by law, the burden of proof requires proof by a preponderance of the evidence. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "115",
+                    "burden",
+                    "of",
+                    "proof",
+                    "means",
+                    "the",
+                    "obligation",
+                    "of",
+                    "a",
+                    "party",
+                    "to",
+                    "establish",
+                    "by",
+                    "evidence",
+                    "a",
+                    "requisite",
+                    "degree",
+                    "of",
+                    "belief",
+                    "concerning",
+                    "a",
+                    "fact",
+                    "in",
+                    "the",
+                    "mind",
+                    "of",
+                    "the",
+                    "trier",
+                    "of",
+                    "fact",
+                    "or",
+                    "the",
+                    "court",
+                    "the",
+                    "burden",
+                    "of",
+                    "proof",
+                    "may",
+                    "require",
+                    "a",
+                    "party",
+                    "to",
+                    "raise",
+                    "a",
+                    "reasonable",
+                    "doubt",
+                    "concerning",
+                    "the",
+                    "existence",
+                    "or",
+                    "nonexistence",
+                    "of",
+                    "a",
+                    "fact",
+                    "or",
+                    "that",
+                    "he",
+                    "establish",
+                    "the",
+                    "existence",
+                    "or",
+                    "nonexistence",
+                    "of",
+                    "a",
+                    "fact",
+                    "by",
+                    "a",
+                    "preponderance",
+                    "of",
+                    "the",
+                    "evidence",
+                    "by",
+                    "clear",
+                    "and",
+                    "convincing",
+                    "proof",
+                    "or",
+                    "by",
+                    "proof",
+                    "beyond",
+                    "a",
+                    "reasonable",
+                    "doubt",
+                    "except",
+                    "as",
+                    "otherwise",
+                    "provided",
+                    "by",
+                    "law",
+                    "the",
+                    "burden",
+                    "of",
+                    "proof",
+                    "requires",
+                    "proof",
+                    "by",
+                    "a",
+                    "preponderance",
+                    "of",
+                    "the",
+                    "evidence",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-114",
+                "next": "EVID-120",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[5]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('115.','3','1965','299','', 'id_1e8b496f-291f-11d9-a64a-d333b3af1e07')\">115.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Burden of proof” means the obligation of a party to establish by evidence a requisite degree of belief concerning a fact in the mind of the trier of fact or the court. The burden of proof may require a party to raise a reasonable doubt concerning the existence or nonexistence of a fact or that he establish the existence or nonexistence of a fact by a preponderance of the evidence, by clear and convincing proof, or by proof beyond a reasonable doubt.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0;display:inline;\">Except as otherwise provided by law, the burden of proof requires proof by a preponderance of the evidence.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-120",
+            "section": "120",
+            "citation": "EVID §120",
+            "text": "“Civil action” includes civil proceedings.",
+            "paragraphs": [
+                {
+                    "id": "120-p2",
+                    "text": "“Civil action” includes civil proceedings."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "civil",
+                "120",
+                "299",
+                "1965",
+                "action",
+                "includes",
+                "proceedings",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "120. “civil action” includes civil proceedings. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "120",
+                    "civil",
+                    "action",
+                    "includes",
+                    "civil",
+                    "proceedings",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-119",
+                "next": "EVID-125",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[6]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('120.','3','1965','299','', 'id_1e8b4971-291f-11d9-a64a-d333b3af1e07')\">120.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Civil action” includes civil proceedings.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-125",
+            "section": "125",
+            "citation": "EVID §125",
+            "text": "“Conduct” includes all active and passive behavior, both verbal and nonverbal.",
+            "paragraphs": [
+                {
+                    "id": "125-p2",
+                    "text": "“Conduct” includes all active and passive behavior, both verbal and nonverbal."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "125",
+                "299",
+                "1965",
+                "conduct",
+                "includes",
+                "all",
+                "active",
+                "passive",
+                "behavior",
+                "both",
+                "verbal",
+                "nonverbal",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "125. “conduct” includes all active and passive behavior, both verbal and nonverbal. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "125",
+                    "conduct",
+                    "includes",
+                    "all",
+                    "active",
+                    "and",
+                    "passive",
+                    "behavior",
+                    "both",
+                    "verbal",
+                    "and",
+                    "nonverbal",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-124",
+                "next": "EVID-130",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[7]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('125.','3','1965','299','', 'id_1e8cd013-291f-11d9-a64a-d333b3af1e07')\">125.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Conduct” includes all active and passive behavior, both verbal and nonverbal.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-130",
+            "section": "130",
+            "citation": "EVID §130",
+            "text": "“Criminal action” includes criminal proceedings.",
+            "paragraphs": [
+                {
+                    "id": "130-p2",
+                    "text": "“Criminal action” includes criminal proceedings."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "criminal",
+                "130",
+                "299",
+                "1965",
+                "action",
+                "includes",
+                "proceedings",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "130. “criminal action” includes criminal proceedings. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "130",
+                    "criminal",
+                    "action",
+                    "includes",
+                    "criminal",
+                    "proceedings",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-129",
+                "next": "EVID-135",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[8]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('130.','3','1965','299','', 'id_1e8e56b5-291f-11d9-a64a-d333b3af1e07')\">130.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Criminal action” includes criminal proceedings.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-135",
+            "section": "135",
+            "citation": "EVID §135",
+            "text": "“Declarant” is a person who makes a statement.",
+            "paragraphs": [
+                {
+                    "id": "135-p2",
+                    "text": "“Declarant” is a person who makes a statement."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "135",
+                "299",
+                "1965",
+                "declarant",
+                "person",
+                "who",
+                "makes",
+                "statement",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "135. “declarant” is a person who makes a statement. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "135",
+                    "declarant",
+                    "is",
+                    "a",
+                    "person",
+                    "who",
+                    "makes",
+                    "a",
+                    "statement",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-134",
+                "next": "EVID-140",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[9]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('135.','3','1965','299','', 'id_1e8fdd57-291f-11d9-a64a-d333b3af1e07')\">135.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Declarant” is a person who makes a statement.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-140",
+            "section": "140",
+            "citation": "EVID §140",
+            "text": "“Evidence” means testimony, writings, material objects, or other things presented to the senses that are offered to prove the existence or nonexistence of a fact.",
+            "paragraphs": [
+                {
+                    "id": "140-p2",
+                    "text": "“Evidence” means testimony, writings, material objects, or other things presented to the senses that are offered to prove the existence or nonexistence of a fact."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "140",
+                "299",
+                "1965",
+                "evidence",
+                "means",
+                "testimony",
+                "writings",
+                "material",
+                "objects",
+                "other",
+                "things",
+                "presented",
+                "senses",
+                "offered",
+                "prove",
+                "existence",
+                "nonexistence",
+                "fact",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "140. “evidence” means testimony, writings, material objects, or other things presented to the senses that are offered to prove the existence or nonexistence of a fact. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "140",
+                    "evidence",
+                    "means",
+                    "testimony",
+                    "writings",
+                    "material",
+                    "objects",
+                    "or",
+                    "other",
+                    "things",
+                    "presented",
+                    "to",
+                    "the",
+                    "senses",
+                    "that",
+                    "are",
+                    "offered",
+                    "to",
+                    "prove",
+                    "the",
+                    "existence",
+                    "or",
+                    "nonexistence",
+                    "of",
+                    "a",
+                    "fact",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-139",
+                "next": "EVID-145",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[10]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('140.','3','1965','299','', 'id_1e8fdd59-291f-11d9-a64a-d333b3af1e07')\">140.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Evidence” means testimony, writings, material objects, or other things presented to the senses that are offered to prove the existence or nonexistence of a fact.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-145",
+            "section": "145",
+            "citation": "EVID §145",
+            "text": "“The hearing” means the hearing at which a question under this code arises, and not some earlier or later hearing.",
+            "paragraphs": [
+                {
+                    "id": "145-p2",
+                    "text": "“The hearing” means the hearing at which a question under this code arises, and not some earlier or later hearing."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "hearing",
+                "145",
+                "299",
+                "1965",
+                "means",
+                "which",
+                "question",
+                "code",
+                "arises",
+                "not",
+                "some",
+                "earlier",
+                "later",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "145. “the hearing” means the hearing at which a question under this code arises, and not some earlier or later hearing. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "145",
+                    "the",
+                    "hearing",
+                    "means",
+                    "the",
+                    "hearing",
+                    "at",
+                    "which",
+                    "a",
+                    "question",
+                    "under",
+                    "this",
+                    "code",
+                    "arises",
+                    "and",
+                    "not",
+                    "some",
+                    "earlier",
+                    "or",
+                    "later",
+                    "hearing",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-144",
+                "next": "EVID-150",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[11]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('145.','3','1965','299','', 'id_1e9163fb-291f-11d9-a64a-d333b3af1e07')\">145.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“The hearing” means the hearing at which a question under this code arises, and not some earlier or later hearing.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-150",
+            "section": "150",
+            "citation": "EVID §150",
+            "text": "“Hearsay evidence” is defined in Section 1200.",
+            "paragraphs": [
+                {
+                    "id": "150-p2",
+                    "text": "“Hearsay evidence” is defined in Section 1200."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "150",
+                "299",
+                "1200",
+                "1965",
+                "hearsay",
+                "evidence",
+                "defined",
+                "section",
+                "enacted",
+                "stats"
+            ],
+            "entities": [
+                {
+                    "type": "section",
+                    "text": "Section 1200"
+                }
+            ],
+            "references": [
+                "Section 1200"
+            ],
+            "search": {
+                "normalized": "150. “hearsay evidence” is defined in section 1200. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "150",
+                    "hearsay",
+                    "evidence",
+                    "is",
+                    "defined",
+                    "in",
+                    "section",
+                    "1200",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-149",
+                "next": "EVID-160",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[12]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('150.','3','1965','299','', 'id_414fdc46-5532-11db-a2e3-d1b0856b6067')\">150.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Hearsay evidence” is defined in Section 1200.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-160",
+            "section": "160",
+            "citation": "EVID §160",
+            "text": "“Law” includes constitutional, statutory, and decisional law.",
+            "paragraphs": [
+                {
+                    "id": "160-p2",
+                    "text": "“Law” includes constitutional, statutory, and decisional law."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "law",
+                "160",
+                "299",
+                "1965",
+                "includes",
+                "constitutional",
+                "statutory",
+                "decisional",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "160. “law” includes constitutional, statutory, and decisional law. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "160",
+                    "law",
+                    "includes",
+                    "constitutional",
+                    "statutory",
+                    "and",
+                    "decisional",
+                    "law",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-159",
+                "next": "EVID-165",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[13]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('160.','3','1965','299','', 'id_1e9163ff-291f-11d9-a64a-d333b3af1e07')\">160.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Law” includes constitutional, statutory, and decisional law.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-165",
+            "section": "165",
+            "citation": "EVID §165",
+            "text": "“Oath” includes affirmation or declaration under penalty of perjury.",
+            "paragraphs": [
+                {
+                    "id": "165-p2",
+                    "text": "“Oath” includes affirmation or declaration under penalty of perjury."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "165",
+                "299",
+                "1965",
+                "oath",
+                "includes",
+                "affirmation",
+                "declaration",
+                "penalty",
+                "perjury",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "165. “oath” includes affirmation or declaration under penalty of perjury. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "165",
+                    "oath",
+                    "includes",
+                    "affirmation",
+                    "or",
+                    "declaration",
+                    "under",
+                    "penalty",
+                    "of",
+                    "perjury",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-164",
+                "next": "EVID-170",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[14]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('165.','3','1965','299','', 'id_1e92eaa1-291f-11d9-a64a-d333b3af1e07')\">165.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Oath” includes affirmation or declaration under penalty of perjury.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-170",
+            "section": "170",
+            "citation": "EVID §170",
+            "text": "“Perceive” means to acquire knowledge through one’s senses.",
+            "paragraphs": [
+                {
+                    "id": "170-p2",
+                    "text": "“Perceive” means to acquire knowledge through one’s senses."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "170",
+                "299",
+                "1965",
+                "perceive",
+                "means",
+                "acquire",
+                "knowledge",
+                "through",
+                "ones",
+                "senses",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "170. “perceive” means to acquire knowledge through one’s senses. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "170",
+                    "perceive",
+                    "means",
+                    "to",
+                    "acquire",
+                    "knowledge",
+                    "through",
+                    "ones",
+                    "senses",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-169",
+                "next": "EVID-175",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[15]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('170.','3','1965','299','', 'id_1e92eaa3-291f-11d9-a64a-d333b3af1e07')\">170.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Perceive” means to acquire knowledge through one’s senses.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-175",
+            "section": "175",
+            "citation": "EVID §175",
+            "text": "“Person” includes a natural person, firm, association, organization, partnership, business trust, corporation, limited liability company, or public entity.",
+            "paragraphs": [
+                {
+                    "id": "175-p2",
+                    "text": "“Person” includes a natural person, firm, association, organization, partnership, business trust, corporation, limited liability company, or public entity."
+                }
+            ],
+            "history": {
+                "text": "(Amended by Stats. 1994, Ch. 1010, Sec. 103. Effective January 1, 1995.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "person",
+                "103",
+                "175",
+                "1010",
+                "1994",
+                "1995",
+                "includes",
+                "natural",
+                "firm",
+                "association",
+                "organization",
+                "partnership",
+                "business",
+                "trust",
+                "corporation",
+                "limited",
+                "liability",
+                "company",
+                "public",
+                "entity"
+            ],
+            "entities": [
+                {
+                    "type": "date",
+                    "text": "January 1, 1995"
+                }
+            ],
+            "references": [],
+            "search": {
+                "normalized": "175. “person” includes a natural person, firm, association, organization, partnership, business trust, corporation, limited liability company, or public entity. (amended by stats. 1994, ch. 1010, sec. 103. effective january 1, 1995.)",
+                "tokens": [
+                    "175",
+                    "person",
+                    "includes",
+                    "a",
+                    "natural",
+                    "person",
+                    "firm",
+                    "association",
+                    "organization",
+                    "partnership",
+                    "business",
+                    "trust",
+                    "corporation",
+                    "limited",
+                    "liability",
+                    "company",
+                    "or",
+                    "public",
+                    "entity",
+                    "amended",
+                    "by",
+                    "stats",
+                    "1994",
+                    "ch",
+                    "1010",
+                    "sec",
+                    "103",
+                    "effective",
+                    "january",
+                    "1",
+                    "1995"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-174",
+                "next": "EVID-177",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[16]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('175.','3','1994','1010','103', 'id_1e92eaa5-291f-11d9-a64a-d333b3af1e07')\">175.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Person” includes a natural person, firm, association, organization, partnership, business trust, corporation, limited liability company, or public entity.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Amended by Stats. 1994, Ch. 1010, Sec. 103.   Effective January 1, 1995.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-177",
+            "section": "177",
+            "citation": "EVID §177",
+            "text": "“Dependent person” means a person, regardless of whether the person lives independently, who has a physical or mental impairment that substantially restricts his or her ability to carry out normal activities or to protect his or her rights, including, but not limited to, persons who have physical or developmental disabilities or whose physical or mental abilities have significantly diminished because of age. “Dependent person” includes any person who is admitted as an inpatient to a 24-hour health facility, as defined in Sections 1250, 1250.2, and 1250.3 of the Health and Safety Code.",
+            "paragraphs": [
+                {
+                    "id": "177-p2",
+                    "text": "“Dependent person” means a person, regardless of whether the person lives independently, who has a physical or mental impairment that substantially restricts his or her ability to carry out normal activities or to protect his or her rights, including, but not limited to, persons who have physical or developmental disabilities or whose physical or mental abilities have significantly diminished because of age. “Dependent person” includes any person who is admitted as an inpatient to a 24-hour health facility, as defined in Sections 1250, 1250.2, and 1250.3 of the Health and Safety Code."
+                }
+            ],
+            "history": {
+                "text": "(Amended by Stats. 2018, Ch. 70, Sec. 1. (AB 1934) Effective January 1, 2019.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "person",
+                "who",
+                "physical",
+                "dependent",
+                "mental",
+                "his",
+                "her",
+                "have",
+                "health",
+                "177",
+                "1250",
+                "1934",
+                "2018",
+                "2019",
+                "12502",
+                "12503",
+                "means",
+                "regardless",
+                "whether",
+                "lives"
+            ],
+            "entities": [
+                {
+                    "type": "sections",
+                    "text": "Sections 1250"
+                },
+                {
+                    "type": "date",
+                    "text": "January 1, 2019"
+                }
+            ],
+            "references": [
+                "Sections 1250"
+            ],
+            "search": {
+                "normalized": "177. “dependent person” means a person, regardless of whether the person lives independently, who has a physical or mental impairment that substantially restricts his or her ability to carry out normal activities or to protect his or her rights, including, but not limited to, persons who have physical or developmental disabilities or whose physical or mental abilities have significantly diminished because of age. “dependent person” includes any person who is admitted as an inpatient to a 24-hour health facility, as defined in sections 1250, 1250.2, and 1250.3 of the health and safety code. (amended by stats. 2018, ch. 70, sec. 1. (ab 1934) effective january 1, 2019.)",
+                "tokens": [
+                    "177",
+                    "dependent",
+                    "person",
+                    "means",
+                    "a",
+                    "person",
+                    "regardless",
+                    "of",
+                    "whether",
+                    "the",
+                    "person",
+                    "lives",
+                    "independently",
+                    "who",
+                    "has",
+                    "a",
+                    "physical",
+                    "or",
+                    "mental",
+                    "impairment",
+                    "that",
+                    "substantially",
+                    "restricts",
+                    "his",
+                    "or",
+                    "her",
+                    "ability",
+                    "to",
+                    "carry",
+                    "out",
+                    "normal",
+                    "activities",
+                    "or",
+                    "to",
+                    "protect",
+                    "his",
+                    "or",
+                    "her",
+                    "rights",
+                    "including",
+                    "but",
+                    "not",
+                    "limited",
+                    "to",
+                    "persons",
+                    "who",
+                    "have",
+                    "physical",
+                    "or",
+                    "developmental",
+                    "disabilities",
+                    "or",
+                    "whose",
+                    "physical",
+                    "or",
+                    "mental",
+                    "abilities",
+                    "have",
+                    "significantly",
+                    "diminished",
+                    "because",
+                    "of",
+                    "age",
+                    "dependent",
+                    "person",
+                    "includes",
+                    "any",
+                    "person",
+                    "who",
+                    "is",
+                    "admitted",
+                    "as",
+                    "an",
+                    "inpatient",
+                    "to",
+                    "a",
+                    "24hour",
+                    "health",
+                    "facility",
+                    "as",
+                    "defined",
+                    "in",
+                    "sections",
+                    "1250",
+                    "12502",
+                    "and",
+                    "12503",
+                    "of",
+                    "the",
+                    "health",
+                    "and",
+                    "safety",
+                    "code",
+                    "amended",
+                    "by",
+                    "stats",
+                    "2018",
+                    "ch",
+                    "70",
+                    "sec",
+                    "1",
+                    "ab",
+                    "1934",
+                    "effective",
+                    "january",
+                    "1",
+                    "2019"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-176",
+                "next": "EVID-180",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[17]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('177.','3','2018','70','1', 'id_a7666034-f280-11e8-9ce3-e321f3ccb212')\">177.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Dependent person” means a person, regardless of whether the person lives independently, who has a physical or mental impairment that substantially restricts his or her ability to carry out normal activities or to protect his or her rights, including, but not limited to, persons who have physical or developmental disabilities or whose physical or mental abilities have significantly diminished because of age. “Dependent person” includes any person who is admitted as an inpatient to a 24-hour health facility, as defined in Sections 1250, 1250.2, and 1250.3 of the Health and Safety Code.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Amended by Stats. 2018, Ch. 70, Sec. 1.   (AB 1934)   Effective January 1, 2019.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-180",
+            "section": "180",
+            "citation": "EVID §180",
+            "text": "“Personal property” includes money, goods, chattels, things in action, and evidences of debt.",
+            "paragraphs": [
+                {
+                    "id": "180-p2",
+                    "text": "“Personal property” includes money, goods, chattels, things in action, and evidences of debt."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "180",
+                "299",
+                "1965",
+                "personal",
+                "property",
+                "includes",
+                "money",
+                "goods",
+                "chattels",
+                "things",
+                "action",
+                "evidences",
+                "debt",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "180. “personal property” includes money, goods, chattels, things in action, and evidences of debt. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "180",
+                    "personal",
+                    "property",
+                    "includes",
+                    "money",
+                    "goods",
+                    "chattels",
+                    "things",
+                    "in",
+                    "action",
+                    "and",
+                    "evidences",
+                    "of",
+                    "debt",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-179",
+                "next": "EVID-185",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[18]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('180.','3','1965','299','', 'id_1e92eaa7-291f-11d9-a64a-d333b3af1e07')\">180.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Personal property” includes money, goods, chattels, things in action, and evidences of debt.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-185",
+            "section": "185",
+            "citation": "EVID §185",
+            "text": "“Property” includes both real and personal property.",
+            "paragraphs": [
+                {
+                    "id": "185-p2",
+                    "text": "“Property” includes both real and personal property."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "property",
+                "185",
+                "299",
+                "1965",
+                "includes",
+                "both",
+                "real",
+                "personal",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "185. “property” includes both real and personal property. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "185",
+                    "property",
+                    "includes",
+                    "both",
+                    "real",
+                    "and",
+                    "personal",
+                    "property",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-184",
+                "next": "EVID-190",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[19]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('185.','3','1965','299','', 'id_1e947149-291f-11d9-a64a-d333b3af1e07')\">185.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Property” includes both real and personal property.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-190",
+            "section": "190",
+            "citation": "EVID §190",
+            "text": "“Proof” is the establishment by evidence of a requisite degree of belief concerning a fact in the mind of the trier of fact or the court.",
+            "paragraphs": [
+                {
+                    "id": "190-p2",
+                    "text": "“Proof” is the establishment by evidence of a requisite degree of belief concerning a fact in the mind of the trier of fact or the court."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "fact",
+                "190",
+                "299",
+                "1965",
+                "proof",
+                "establishment",
+                "evidence",
+                "requisite",
+                "degree",
+                "belief",
+                "concerning",
+                "mind",
+                "trier",
+                "court",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "190. “proof” is the establishment by evidence of a requisite degree of belief concerning a fact in the mind of the trier of fact or the court. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "190",
+                    "proof",
+                    "is",
+                    "the",
+                    "establishment",
+                    "by",
+                    "evidence",
+                    "of",
+                    "a",
+                    "requisite",
+                    "degree",
+                    "of",
+                    "belief",
+                    "concerning",
+                    "a",
+                    "fact",
+                    "in",
+                    "the",
+                    "mind",
+                    "of",
+                    "the",
+                    "trier",
+                    "of",
+                    "fact",
+                    "or",
+                    "the",
+                    "court",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-189",
+                "next": "EVID-195",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[20]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('190.','3','1965','299','', 'id_1e95f7eb-291f-11d9-a64a-d333b3af1e07')\">190.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Proof” is the establishment by evidence of a requisite degree of belief concerning a fact in the mind of the trier of fact or the court.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-195",
+            "section": "195",
+            "citation": "EVID §195",
+            "text": "“Public employee” means an officer, agent, or employee of a public entity.",
+            "paragraphs": [
+                {
+                    "id": "195-p2",
+                    "text": "“Public employee” means an officer, agent, or employee of a public entity."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "public",
+                "employee",
+                "195",
+                "299",
+                "1965",
+                "means",
+                "officer",
+                "agent",
+                "entity",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "195. “public employee” means an officer, agent, or employee of a public entity. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "195",
+                    "public",
+                    "employee",
+                    "means",
+                    "an",
+                    "officer",
+                    "agent",
+                    "or",
+                    "employee",
+                    "of",
+                    "a",
+                    "public",
+                    "entity",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-194",
+                "next": "EVID-200",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[21]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('195.','3','1965','299','', 'id_1e95f7ed-291f-11d9-a64a-d333b3af1e07')\">195.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Public employee” means an officer, agent, or employee of a public entity.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-200",
+            "section": "200",
+            "citation": "EVID §200",
+            "text": "“Public entity” includes a nation, state, county, city and county, city, district, public authority, public agency, or any other political subdivision or public corporation, whether foreign or domestic.",
+            "paragraphs": [
+                {
+                    "id": "200-p2",
+                    "text": "“Public entity” includes a nation, state, county, city and county, city, district, public authority, public agency, or any other political subdivision or public corporation, whether foreign or domestic."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "public",
+                "county",
+                "city",
+                "200",
+                "299",
+                "1965",
+                "entity",
+                "includes",
+                "nation",
+                "state",
+                "district",
+                "authority",
+                "agency",
+                "any",
+                "other",
+                "political",
+                "subdivision",
+                "corporation",
+                "whether",
+                "foreign"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "200. “public entity” includes a nation, state, county, city and county, city, district, public authority, public agency, or any other political subdivision or public corporation, whether foreign or domestic. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "200",
+                    "public",
+                    "entity",
+                    "includes",
+                    "a",
+                    "nation",
+                    "state",
+                    "county",
+                    "city",
+                    "and",
+                    "county",
+                    "city",
+                    "district",
+                    "public",
+                    "authority",
+                    "public",
+                    "agency",
+                    "or",
+                    "any",
+                    "other",
+                    "political",
+                    "subdivision",
+                    "or",
+                    "public",
+                    "corporation",
+                    "whether",
+                    "foreign",
+                    "or",
+                    "domestic",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-199",
+                "next": "EVID-205",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[22]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('200.','3','1965','299','', 'id_1e977e8f-291f-11d9-a64a-d333b3af1e07')\">200.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Public entity” includes a nation, state, county, city and county, city, district, public authority, public agency, or any other political subdivision or public corporation, whether foreign or domestic.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-205",
+            "section": "205",
+            "citation": "EVID §205",
+            "text": "“Real property” includes lands, tenements, and hereditaments.",
+            "paragraphs": [
+                {
+                    "id": "205-p2",
+                    "text": "“Real property” includes lands, tenements, and hereditaments."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "205",
+                "299",
+                "1965",
+                "real",
+                "property",
+                "includes",
+                "lands",
+                "tenements",
+                "hereditaments",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "205. “real property” includes lands, tenements, and hereditaments. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "205",
+                    "real",
+                    "property",
+                    "includes",
+                    "lands",
+                    "tenements",
+                    "and",
+                    "hereditaments",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-204",
+                "next": "EVID-210",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[23]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('205.','3','1965','299','', 'id_1e977e91-291f-11d9-a64a-d333b3af1e07')\">205.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Real property” includes lands, tenements, and hereditaments.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-210",
+            "section": "210",
+            "citation": "EVID §210",
+            "text": "“Relevant evidence” means evidence, including evidence relevant to the credibility of a witness or hearsay declarant, having any tendency in reason to prove or disprove any disputed fact that is of consequence to the determination of the action.",
+            "paragraphs": [
+                {
+                    "id": "210-p2",
+                    "text": "“Relevant evidence” means evidence, including evidence relevant to the credibility of a witness or hearsay declarant, having any tendency in reason to prove or disprove any disputed fact that is of consequence to the determination of the action."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "evidence",
+                "relevant",
+                "any",
+                "210",
+                "299",
+                "1965",
+                "means",
+                "including",
+                "credibility",
+                "witness",
+                "hearsay",
+                "declarant",
+                "having",
+                "tendency",
+                "reason",
+                "prove",
+                "disprove",
+                "disputed",
+                "fact",
+                "consequence"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "210. “relevant evidence” means evidence, including evidence relevant to the credibility of a witness or hearsay declarant, having any tendency in reason to prove or disprove any disputed fact that is of consequence to the determination of the action. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "210",
+                    "relevant",
+                    "evidence",
+                    "means",
+                    "evidence",
+                    "including",
+                    "evidence",
+                    "relevant",
+                    "to",
+                    "the",
+                    "credibility",
+                    "of",
+                    "a",
+                    "witness",
+                    "or",
+                    "hearsay",
+                    "declarant",
+                    "having",
+                    "any",
+                    "tendency",
+                    "in",
+                    "reason",
+                    "to",
+                    "prove",
+                    "or",
+                    "disprove",
+                    "any",
+                    "disputed",
+                    "fact",
+                    "that",
+                    "is",
+                    "of",
+                    "consequence",
+                    "to",
+                    "the",
+                    "determination",
+                    "of",
+                    "the",
+                    "action",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-209",
+                "next": "EVID-215",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[24]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('210.','3','1965','299','', 'id_1e977e93-291f-11d9-a64a-d333b3af1e07')\">210.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Relevant evidence” means evidence, including evidence relevant to the credibility of a witness or hearsay declarant, having any tendency in reason to prove or disprove any disputed fact that is of consequence to the determination of the action.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-215",
+            "section": "215",
+            "citation": "EVID §215",
+            "text": "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.",
+            "paragraphs": [
+                {
+                    "id": "215-p2",
+                    "text": "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code."
+                }
+            ],
+            "history": {
+                "text": "(Added by Stats. 2016, Ch. 50, Sec. 32. (SB 1005) Effective January 1, 2017.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "215",
+                "1005",
+                "2016",
+                "2017",
+                "2975",
+                "spouse",
+                "includes",
+                "registered",
+                "domestic",
+                "partner",
+                "required",
+                "section",
+                "family",
+                "code",
+                "added",
+                "stats",
+                "sec",
+                "effective",
+                "january"
+            ],
+            "entities": [
+                {
+                    "type": "section",
+                    "text": "Section 297.5"
+                },
+                {
+                    "type": "date",
+                    "text": "January 1, 2017"
+                }
+            ],
+            "references": [
+                "Section 297.5"
+            ],
+            "search": {
+                "normalized": "215. “spouse” includes “registered domestic partner,” as required by section 297.5 of the family code. (added by stats. 2016, ch. 50, sec. 32. (sb 1005) effective january 1, 2017.)",
+                "tokens": [
+                    "215",
+                    "spouse",
+                    "includes",
+                    "registered",
+                    "domestic",
+                    "partner",
+                    "as",
+                    "required",
+                    "by",
+                    "section",
+                    "2975",
+                    "of",
+                    "the",
+                    "family",
+                    "code",
+                    "added",
+                    "by",
+                    "stats",
+                    "2016",
+                    "ch",
+                    "50",
+                    "sec",
+                    "32",
+                    "sb",
+                    "1005",
+                    "effective",
+                    "january",
+                    "1",
+                    "2017"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-214",
+                "next": "EVID-220",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[25]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('215.','3','2016','50','32', 'id_1793253e-c2e4-11e6-9a16-a93adc08b80e')\">215.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Added by Stats. 2016, Ch. 50, Sec. 32.   (SB 1005)   Effective January 1, 2017.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-220",
+            "section": "220",
+            "citation": "EVID §220",
+            "text": "“State” means the State of California, unless applied to the different parts of the United States. In the latter case, it includes any state, district, commonwealth, territory, or insular possession of the United States.",
+            "paragraphs": [
+                {
+                    "id": "220-p2",
+                    "text": "“State” means the State of California, unless applied to the different parts of the United States. In the latter case, it includes any state, district, commonwealth, territory, or insular possession of the United States."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "state",
+                "united",
+                "states",
+                "220",
+                "299",
+                "1965",
+                "means",
+                "california",
+                "unless",
+                "applied",
+                "different",
+                "parts",
+                "latter",
+                "case",
+                "includes",
+                "any",
+                "district",
+                "commonwealth",
+                "territory",
+                "insular"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "220. “state” means the state of california, unless applied to the different parts of the united states. in the latter case, it includes any state, district, commonwealth, territory, or insular possession of the united states. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "220",
+                    "state",
+                    "means",
+                    "the",
+                    "state",
+                    "of",
+                    "california",
+                    "unless",
+                    "applied",
+                    "to",
+                    "the",
+                    "different",
+                    "parts",
+                    "of",
+                    "the",
+                    "united",
+                    "states",
+                    "in",
+                    "the",
+                    "latter",
+                    "case",
+                    "it",
+                    "includes",
+                    "any",
+                    "state",
+                    "district",
+                    "commonwealth",
+                    "territory",
+                    "or",
+                    "insular",
+                    "possession",
+                    "of",
+                    "the",
+                    "united",
+                    "states",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-219",
+                "next": "EVID-225",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[26]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('220.','3','1965','299','', 'id_1e977e95-291f-11d9-a64a-d333b3af1e07')\">220.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“State” means the State of California, unless applied to the different parts of the United States. In the latter case, it includes any state, district, commonwealth, territory, or insular possession of the United States.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-225",
+            "section": "225",
+            "citation": "EVID §225",
+            "text": "“Statement” means (a) oral or written verbal expression or (b) nonverbal conduct of a person intended by him as a substitute for oral or written verbal expression.",
+            "paragraphs": [
+                {
+                    "id": "225-p2",
+                    "text": "“Statement” means (a) oral or written verbal expression or (b) nonverbal conduct of a person intended by him as a substitute for oral or written verbal expression."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "oral",
+                "written",
+                "verbal",
+                "expression",
+                "225",
+                "299",
+                "1965",
+                "statement",
+                "means",
+                "nonverbal",
+                "conduct",
+                "person",
+                "intended",
+                "him",
+                "substitute",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "225. “statement” means (a) oral or written verbal expression or (b) nonverbal conduct of a person intended by him as a substitute for oral or written verbal expression. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "225",
+                    "statement",
+                    "means",
+                    "a",
+                    "oral",
+                    "or",
+                    "written",
+                    "verbal",
+                    "expression",
+                    "or",
+                    "b",
+                    "nonverbal",
+                    "conduct",
+                    "of",
+                    "a",
+                    "person",
+                    "intended",
+                    "by",
+                    "him",
+                    "as",
+                    "a",
+                    "substitute",
+                    "for",
+                    "oral",
+                    "or",
+                    "written",
+                    "verbal",
+                    "expression",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-224",
+                "next": "EVID-230",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[27]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('225.','3','1965','299','', 'id_1e990537-291f-11d9-a64a-d333b3af1e07')\">225.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Statement” means (a) oral or written verbal expression or (b) nonverbal conduct of a person intended by him as a substitute for oral or written verbal expression.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-230",
+            "section": "230",
+            "citation": "EVID §230",
+            "text": "“Statute” includes a treaty and a constitutional provision.",
+            "paragraphs": [
+                {
+                    "id": "230-p2",
+                    "text": "“Statute” includes a treaty and a constitutional provision."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "230",
+                "299",
+                "1965",
+                "statute",
+                "includes",
+                "treaty",
+                "constitutional",
+                "provision",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "230. “statute” includes a treaty and a constitutional provision. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "230",
+                    "statute",
+                    "includes",
+                    "a",
+                    "treaty",
+                    "and",
+                    "a",
+                    "constitutional",
+                    "provision",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-229",
+                "next": "EVID-235",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[28]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('230.','3','1965','299','', 'id_1e990539-291f-11d9-a64a-d333b3af1e07')\">230.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Statute” includes a treaty and a constitutional provision.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-235",
+            "section": "235",
+            "citation": "EVID §235",
+            "text": "“Trier of fact” includes (a) the jury and (b) the court when the court is trying an issue of fact other than one relating to the admissibility of evidence.",
+            "paragraphs": [
+                {
+                    "id": "235-p2",
+                    "text": "“Trier of fact” includes (a) the jury and (b) the court when the court is trying an issue of fact other than one relating to the admissibility of evidence."
+                }
+            ],
+            "history": {
+                "text": "(Enacted by Stats. 1965, Ch. 299.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "fact",
+                "court",
+                "235",
+                "299",
+                "1965",
+                "trier",
+                "includes",
+                "jury",
+                "when",
+                "trying",
+                "issue",
+                "other",
+                "than",
+                "one",
+                "relating",
+                "admissibility",
+                "evidence",
+                "enacted",
+                "stats"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "235. “trier of fact” includes (a) the jury and (b) the court when the court is trying an issue of fact other than one relating to the admissibility of evidence. (enacted by stats. 1965, ch. 299.)",
+                "tokens": [
+                    "235",
+                    "trier",
+                    "of",
+                    "fact",
+                    "includes",
+                    "a",
+                    "the",
+                    "jury",
+                    "and",
+                    "b",
+                    "the",
+                    "court",
+                    "when",
+                    "the",
+                    "court",
+                    "is",
+                    "trying",
+                    "an",
+                    "issue",
+                    "of",
+                    "fact",
+                    "other",
+                    "than",
+                    "one",
+                    "relating",
+                    "to",
+                    "the",
+                    "admissibility",
+                    "of",
+                    "evidence",
+                    "enacted",
+                    "by",
+                    "stats",
+                    "1965",
+                    "ch",
+                    "299"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-234",
+                "next": "EVID-240",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[29]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('235.','3','1965','299','', 'id_1e99053b-291f-11d9-a64a-d333b3af1e07')\">235.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Trier of fact” includes (a) the jury and (b) the court when the court is trying an issue of fact other than one relating to the admissibility of evidence.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Enacted by Stats. 1965, Ch. 299.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-240",
+            "section": "240",
+            "citation": "EVID §240",
+            "text": "(a) Except as otherwise provided in subdivision (b), “unavailable as a witness” means that the declarant is any of the following: (1) Exempted or precluded on the ground of privilege from testifying concerning the matter to which his or her statement is relevant. (2) Disqualified from testifying to the matter. (3) Dead or unable to attend or to testify at the hearing because of then-existing physical or mental illness or infirmity. (4) Absent from the hearing and the court is unable to compel his or her attendance by its process. (5) Absent from the hearing and the proponent of his or her statement has exercised reasonable diligence but has been unable to procure his or her attendance by the court’s process. (6) Persistent in refusing to testify concerning the subject matter of the declarant’s statement despite having been found in contempt for refusal to testify. (b) A declarant is not unavailable as a witness if the exemption, preclusion, disqualification, death, inability, or absence of the declarant was brought about by the procurement or wrongdoing of the proponent of his or her statement for the purpose of preventing the declarant from attending or testifying. (c) Expert testimony that establishes that physical or mental trauma resulting from an alleged crime has caused harm to a witness of sufficient severity that the witness is physically unable to testify or is unable to testify without suffering substantial trauma may constitute a sufficient showing of unavailability pursuant to paragraph (3) of subdivision (a). As used in this section, the term “expert” means a physician and surgeon, including a psychiatrist, or any person described by subdivision (b), (c), or (e) of Section 1010. The introduction of evidence to establish the unavailability of a witness under this subdivision shall not be deemed procurement of unavailability, in absence of proof to the contrary.",
+            "paragraphs": [
+                {
+                    "id": "240-p2",
+                    "text": "(a) Except as otherwise provided in subdivision (b), “unavailable as a witness” means that the declarant is any of the following:"
+                },
+                {
+                    "id": "240-p4",
+                    "text": "(1) Exempted or precluded on the ground of privilege from testifying concerning the matter to which his or her statement is relevant."
+                },
+                {
+                    "id": "240-p6",
+                    "text": "(2) Disqualified from testifying to the matter."
+                },
+                {
+                    "id": "240-p8",
+                    "text": "(3) Dead or unable to attend or to testify at the hearing because of then-existing physical or mental illness or infirmity."
+                },
+                {
+                    "id": "240-p10",
+                    "text": "(4) Absent from the hearing and the court is unable to compel his or her attendance by its process."
+                },
+                {
+                    "id": "240-p12",
+                    "text": "(5) Absent from the hearing and the proponent of his or her statement has exercised reasonable diligence but has been unable to procure his or her attendance by the court’s process."
+                },
+                {
+                    "id": "240-p14",
+                    "text": "(6) Persistent in refusing to testify concerning the subject matter of the declarant’s statement despite having been found in contempt for refusal to testify."
+                },
+                {
+                    "id": "240-p16",
+                    "text": "(b) A declarant is not unavailable as a witness if the exemption, preclusion, disqualification, death, inability, or absence of the declarant was brought about by the procurement or wrongdoing of the proponent of his or her statement for the purpose of preventing the declarant from attending or testifying."
+                },
+                {
+                    "id": "240-p18",
+                    "text": "(c) Expert testimony that establishes that physical or mental trauma resulting from an alleged crime has caused harm to a witness of sufficient severity that the witness is physically unable to testify or is unable to testify without suffering substantial trauma may constitute a sufficient showing of unavailability pursuant to paragraph (3) of subdivision (a). As used in this section, the term “expert” means a physician and surgeon, including a psychiatrist, or any person described by subdivision (b), (c), or (e) of Section 1010."
+                },
+                {
+                    "id": "240-p20",
+                    "text": "The introduction of evidence to establish the unavailability of a witness under this subdivision shall not be deemed procurement of unavailability, in absence of proof to the contrary."
+                }
+            ],
+            "history": {
+                "text": "(Amended by Stats. 2010, Ch. 537, Sec. 1. (AB 1723) Effective January 1, 2011.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "witness",
+                "his",
+                "her",
+                "unable",
+                "testify",
+                "subdivision",
+                "declarant",
+                "statement",
+                "testifying",
+                "matter",
+                "hearing",
+                "has",
+                "unavailability",
+                "unavailable",
+                "means",
+                "any",
+                "concerning",
+                "physical",
+                "mental",
+                "absent"
+            ],
+            "entities": [
+                {
+                    "type": "section",
+                    "text": "Section 1010"
+                },
+                {
+                    "type": "date",
+                    "text": "January 1, 2011"
+                }
+            ],
+            "references": [
+                "Section 1010"
+            ],
+            "search": {
+                "normalized": "240. (a) except as otherwise provided in subdivision (b), “unavailable as a witness” means that the declarant is any of the following: (1) exempted or precluded on the ground of privilege from testifying concerning the matter to which his or her statement is relevant. (2) disqualified from testifying to the matter. (3) dead or unable to attend or to testify at the hearing because of then-existing physical or mental illness or infirmity. (4) absent from the hearing and the court is unable to compel his or her attendance by its process. (5) absent from the hearing and the proponent of his or her statement has exercised reasonable diligence but has been unable to procure his or her attendance by the court’s process. (6) persistent in refusing to testify concerning the subject matter of the declarant’s statement despite having been found in contempt for refusal to testify. (b) a declarant is not unavailable as a witness if the exemption, preclusion, disqualification, death, inability, or absence of the declarant was brought about by the procurement or wrongdoing of the proponent of his or her statement for the purpose of preventing the declarant from attending or testifying. (c) expert testimony that establishes that physical or mental trauma resulting from an alleged crime has caused harm to a witness of sufficient severity that the witness is physically unable to testify or is unable to testify without suffering substantial trauma may constitute a sufficient showing of unavailability pursuant to paragraph (3) of subdivision (a). as used in this section, the term “expert” means a physician and surgeon, including a psychiatrist, or any person described by subdivision (b), (c), or (e) of section 1010. the introduction of evidence to establish the unavailability of a witness under this subdivision shall not be deemed procurement of unavailability, in absence of proof to the contrary. (amended by stats. 2010, ch. 537, sec. 1. (ab 1723) effective january 1, 2011.)",
+                "tokens": [
+                    "240",
+                    "a",
+                    "except",
+                    "as",
+                    "otherwise",
+                    "provided",
+                    "in",
+                    "subdivision",
+                    "b",
+                    "unavailable",
+                    "as",
+                    "a",
+                    "witness",
+                    "means",
+                    "that",
+                    "the",
+                    "declarant",
+                    "is",
+                    "any",
+                    "of",
+                    "the",
+                    "following",
+                    "1",
+                    "exempted",
+                    "or",
+                    "precluded",
+                    "on",
+                    "the",
+                    "ground",
+                    "of",
+                    "privilege",
+                    "from",
+                    "testifying",
+                    "concerning",
+                    "the",
+                    "matter",
+                    "to",
+                    "which",
+                    "his",
+                    "or",
+                    "her",
+                    "statement",
+                    "is",
+                    "relevant",
+                    "2",
+                    "disqualified",
+                    "from",
+                    "testifying",
+                    "to",
+                    "the",
+                    "matter",
+                    "3",
+                    "dead",
+                    "or",
+                    "unable",
+                    "to",
+                    "attend",
+                    "or",
+                    "to",
+                    "testify",
+                    "at",
+                    "the",
+                    "hearing",
+                    "because",
+                    "of",
+                    "thenexisting",
+                    "physical",
+                    "or",
+                    "mental",
+                    "illness",
+                    "or",
+                    "infirmity",
+                    "4",
+                    "absent",
+                    "from",
+                    "the",
+                    "hearing",
+                    "and",
+                    "the",
+                    "court",
+                    "is",
+                    "unable",
+                    "to",
+                    "compel",
+                    "his",
+                    "or",
+                    "her",
+                    "attendance",
+                    "by",
+                    "its",
+                    "process",
+                    "5",
+                    "absent",
+                    "from",
+                    "the",
+                    "hearing",
+                    "and",
+                    "the",
+                    "proponent",
+                    "of",
+                    "his",
+                    "or",
+                    "her",
+                    "statement",
+                    "has",
+                    "exercised",
+                    "reasonable",
+                    "diligence",
+                    "but",
+                    "has",
+                    "been",
+                    "unable",
+                    "to",
+                    "procure",
+                    "his",
+                    "or",
+                    "her",
+                    "attendance",
+                    "by",
+                    "the",
+                    "courts",
+                    "process",
+                    "6",
+                    "persistent",
+                    "in",
+                    "refusing",
+                    "to",
+                    "testify",
+                    "concerning",
+                    "the",
+                    "subject",
+                    "matter",
+                    "of",
+                    "the",
+                    "declarants",
+                    "statement",
+                    "despite",
+                    "having",
+                    "been",
+                    "found",
+                    "in",
+                    "contempt",
+                    "for",
+                    "refusal",
+                    "to",
+                    "testify",
+                    "b",
+                    "a",
+                    "declarant",
+                    "is",
+                    "not",
+                    "unavailable",
+                    "as",
+                    "a",
+                    "witness",
+                    "if",
+                    "the",
+                    "exemption",
+                    "preclusion",
+                    "disqualification",
+                    "death",
+                    "inability",
+                    "or",
+                    "absence",
+                    "of",
+                    "the",
+                    "declarant",
+                    "was",
+                    "brought",
+                    "about",
+                    "by",
+                    "the",
+                    "procurement",
+                    "or",
+                    "wrongdoing",
+                    "of",
+                    "the",
+                    "proponent",
+                    "of",
+                    "his",
+                    "or",
+                    "her",
+                    "statement",
+                    "for",
+                    "the",
+                    "purpose",
+                    "of",
+                    "preventing",
+                    "the",
+                    "declarant",
+                    "from",
+                    "attending",
+                    "or",
+                    "testifying",
+                    "c",
+                    "expert",
+                    "testimony",
+                    "that",
+                    "establishes",
+                    "that",
+                    "physical",
+                    "or",
+                    "mental",
+                    "trauma",
+                    "resulting",
+                    "from",
+                    "an",
+                    "alleged",
+                    "crime",
+                    "has",
+                    "caused",
+                    "harm",
+                    "to",
+                    "a",
+                    "witness",
+                    "of",
+                    "sufficient",
+                    "severity",
+                    "that",
+                    "the",
+                    "witness",
+                    "is",
+                    "physically",
+                    "unable",
+                    "to",
+                    "testify",
+                    "or",
+                    "is",
+                    "unable",
+                    "to",
+                    "testify",
+                    "without",
+                    "suffering",
+                    "substantial",
+                    "trauma",
+                    "may",
+                    "constitute",
+                    "a",
+                    "sufficient",
+                    "showing",
+                    "of",
+                    "unavailability",
+                    "pursuant",
+                    "to",
+                    "paragraph",
+                    "3",
+                    "of",
+                    "subdivision",
+                    "a",
+                    "as",
+                    "used",
+                    "in",
+                    "this",
+                    "section",
+                    "the",
+                    "term",
+                    "expert",
+                    "means",
+                    "a",
+                    "physician",
+                    "and",
+                    "surgeon",
+                    "including",
+                    "a",
+                    "psychiatrist",
+                    "or",
+                    "any",
+                    "person",
+                    "described",
+                    "by",
+                    "subdivision",
+                    "b",
+                    "c",
+                    "or",
+                    "e",
+                    "of",
+                    "section",
+                    "1010",
+                    "the",
+                    "introduction",
+                    "of",
+                    "evidence",
+                    "to",
+                    "establish",
+                    "the",
+                    "unavailability",
+                    "of",
+                    "a",
+                    "witness",
+                    "under",
+                    "this",
+                    "subdivision",
+                    "shall",
+                    "not",
+                    "be",
+                    "deemed",
+                    "procurement",
+                    "of",
+                    "unavailability",
+                    "in",
+                    "absence",
+                    "of",
+                    "proof",
+                    "to",
+                    "the",
+                    "contrary",
+                    "amended",
+                    "by",
+                    "stats",
+                    "2010",
+                    "ch",
+                    "537",
+                    "sec",
+                    "1",
+                    "ab",
+                    "1723",
+                    "effective",
+                    "january",
+                    "1",
+                    "2011"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-239",
+                "next": "EVID-250",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[30]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('240.','3','2010','537','1', 'id_0b5e1811-05da-11e0-bd9e-8b16f6e2b2f7')\">240.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">(a)&nbsp;Except as otherwise provided in subdivision (b), “unavailable as a witness” means that the declarant is any of the following:</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 1em 0;margin-left: 1em;\">(1)&nbsp;Exempted or precluded on the ground of privilege from testifying concerning the matter to which his or her statement is relevant.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 1em 0;margin-left: 1em;\">(2)&nbsp;Disqualified from testifying to the matter.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 1em 0;margin-left: 1em;\">(3)&nbsp;Dead or unable to attend or to testify at the hearing because of then-existing physical or mental illness or infirmity.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 1em 0;margin-left: 1em;\">(4)&nbsp;Absent from the hearing and the court is unable to compel\n\t\t\t\t  his or her attendance by its process.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 1em 0;margin-left: 1em;\">(5)&nbsp;Absent from the hearing and the proponent of his or her statement has exercised reasonable diligence but has been unable to procure his or her attendance by the court’s process.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 1em 0;margin-left: 1em;\">(6)&nbsp;Persistent in refusing to testify concerning the subject matter of the declarant’s statement despite having been found in contempt for refusal to testify.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0;display:inline;\">(b)&nbsp;A declarant is not unavailable as a witness if the exemption, preclusion, disqualification, death, inability, or absence of the declarant was brought about by the procurement or wrongdoing of the proponent of his or her statement for the purpose of preventing the declarant from attending or testifying.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0;display:inline;\">(c)&nbsp;Expert testimony that establishes that physical or mental trauma\n\t\t\t\t  resulting from an alleged crime has caused harm to a witness of sufficient severity that the witness is physically unable to testify or is unable to testify without suffering substantial trauma may constitute a sufficient showing of unavailability pursuant to paragraph (3) of subdivision (a). As used in this section, the term “expert” means a physician and surgeon, including a psychiatrist, or any person described by subdivision (b), (c), or (e) of Section 1010.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0;display:inline;\">The introduction of evidence to establish the unavailability of a witness under this subdivision shall not be deemed procurement of unavailability, in absence of proof to the contrary.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Amended by Stats. 2010, Ch. 537, Sec. 1.   (AB 1723)   Effective January 1, 2011.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-250",
+            "section": "250",
+            "citation": "EVID §250",
+            "text": "“Writing” means handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing, any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored.",
+            "paragraphs": [
+                {
+                    "id": "250-p2",
+                    "text": "“Writing” means handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing, any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored."
+                }
+            ],
+            "history": {
+                "text": "(Amended by Stats. 2002, Ch. 945, Sec. 1. Effective January 1, 2003.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "any",
+                "means",
+                "record",
+                "250",
+                "945",
+                "2002",
+                "2003",
+                "writing",
+                "handwriting",
+                "typewriting",
+                "printing",
+                "photostating",
+                "photographing",
+                "photocopying",
+                "transmitting",
+                "electronic",
+                "mail",
+                "facsimile",
+                "every",
+                "other"
+            ],
+            "entities": [
+                {
+                    "type": "date",
+                    "text": "January 1, 2003"
+                }
+            ],
+            "references": [],
+            "search": {
+                "normalized": "250. “writing” means handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing, any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored. (amended by stats. 2002, ch. 945, sec. 1. effective january 1, 2003.)",
+                "tokens": [
+                    "250",
+                    "writing",
+                    "means",
+                    "handwriting",
+                    "typewriting",
+                    "printing",
+                    "photostating",
+                    "photographing",
+                    "photocopying",
+                    "transmitting",
+                    "by",
+                    "electronic",
+                    "mail",
+                    "or",
+                    "facsimile",
+                    "and",
+                    "every",
+                    "other",
+                    "means",
+                    "of",
+                    "recording",
+                    "upon",
+                    "any",
+                    "tangible",
+                    "thing",
+                    "any",
+                    "form",
+                    "of",
+                    "communication",
+                    "or",
+                    "representation",
+                    "including",
+                    "letters",
+                    "words",
+                    "pictures",
+                    "sounds",
+                    "or",
+                    "symbols",
+                    "or",
+                    "combinations",
+                    "thereof",
+                    "and",
+                    "any",
+                    "record",
+                    "thereby",
+                    "created",
+                    "regardless",
+                    "of",
+                    "the",
+                    "manner",
+                    "in",
+                    "which",
+                    "the",
+                    "record",
+                    "has",
+                    "been",
+                    "stored",
+                    "amended",
+                    "by",
+                    "stats",
+                    "2002",
+                    "ch",
+                    "945",
+                    "sec",
+                    "1",
+                    "effective",
+                    "january",
+                    "1",
+                    "2003"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-249",
+                "next": "EVID-255",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[31]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('250.','3','2002','945','1', 'id_1e9a8bdf-291f-11d9-a64a-d333b3af1e07')\">250.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Writing” means handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing, any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Amended by Stats. 2002, Ch. 945, Sec. 1.   Effective January 1, 2003.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-255",
+            "section": "255",
+            "citation": "EVID §255",
+            "text": "“Original” means the writing itself or any counterpart intended to have the same effect by a person executing or issuing it. An “original” of a photograph includes the negative or any print therefrom. If data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an “original.”",
+            "paragraphs": [
+                {
+                    "id": "255-p2",
+                    "text": "“Original” means the writing itself or any counterpart intended to have the same effect by a person executing or issuing it. An “original” of a photograph includes the negative or any print therefrom. If data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an “original.”"
+                }
+            ],
+            "history": {
+                "text": "(Added by Stats. 1977, Ch. 708.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "original",
+                "any",
+                "data",
+                "255",
+                "708",
+                "1977",
+                "means",
+                "writing",
+                "itself",
+                "counterpart",
+                "intended",
+                "have",
+                "same",
+                "effect",
+                "person",
+                "executing",
+                "issuing",
+                "photograph",
+                "includes",
+                "negative"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "255. “original” means the writing itself or any counterpart intended to have the same effect by a person executing or issuing it. an “original” of a photograph includes the negative or any print therefrom. if data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an “original.” (added by stats. 1977, ch. 708.)",
+                "tokens": [
+                    "255",
+                    "original",
+                    "means",
+                    "the",
+                    "writing",
+                    "itself",
+                    "or",
+                    "any",
+                    "counterpart",
+                    "intended",
+                    "to",
+                    "have",
+                    "the",
+                    "same",
+                    "effect",
+                    "by",
+                    "a",
+                    "person",
+                    "executing",
+                    "or",
+                    "issuing",
+                    "it",
+                    "an",
+                    "original",
+                    "of",
+                    "a",
+                    "photograph",
+                    "includes",
+                    "the",
+                    "negative",
+                    "or",
+                    "any",
+                    "print",
+                    "therefrom",
+                    "if",
+                    "data",
+                    "are",
+                    "stored",
+                    "in",
+                    "a",
+                    "computer",
+                    "or",
+                    "similar",
+                    "device",
+                    "any",
+                    "printout",
+                    "or",
+                    "other",
+                    "output",
+                    "readable",
+                    "by",
+                    "sight",
+                    "shown",
+                    "to",
+                    "reflect",
+                    "the",
+                    "data",
+                    "accurately",
+                    "is",
+                    "an",
+                    "original",
+                    "added",
+                    "by",
+                    "stats",
+                    "1977",
+                    "ch",
+                    "708"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-254",
+                "next": "EVID-260",
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[32]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('255.','3','1977','708','', 'id_1e9a8be1-291f-11d9-a64a-d333b3af1e07')\">255.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">“Original” means the writing itself or any counterpart intended to have the same effect by a person executing or issuing it. An “original” of a photograph includes the negative or any print therefrom. If data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an “original.”</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Added by Stats. 1977, Ch. 708.)</i></p><p></p>"
+        },
+        {
+            "id": "EVID-260",
+            "section": "260",
+            "citation": "EVID §260",
+            "text": "A “duplicate” is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent technique which accurately reproduces the original.",
+            "paragraphs": [
+                {
+                    "id": "260-p2",
+                    "text": "A “duplicate” is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent technique which accurately reproduces the original."
+                }
+            ],
+            "history": {
+                "text": "(Added by Stats. 1977, Ch. 708.)",
+                "tree": "",
+                "year": "",
+                "chapter": "",
+                "statute_section": ""
+            },
+            "keywords": [
+                "same",
+                "original",
+                "260",
+                "708",
+                "1977",
+                "duplicate",
+                "counterpart",
+                "produced",
+                "impression",
+                "matrix",
+                "means",
+                "photography",
+                "including",
+                "enlargements",
+                "miniatures",
+                "mechanical",
+                "electronic",
+                "rerecording",
+                "chemical",
+                "reproduction"
+            ],
+            "entities": [],
+            "references": [],
+            "search": {
+                "normalized": "260. a “duplicate” is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent technique which accurately reproduces the original. (added by stats. 1977, ch. 708.)",
+                "tokens": [
+                    "260",
+                    "a",
+                    "duplicate",
+                    "is",
+                    "a",
+                    "counterpart",
+                    "produced",
+                    "by",
+                    "the",
+                    "same",
+                    "impression",
+                    "as",
+                    "the",
+                    "original",
+                    "or",
+                    "from",
+                    "the",
+                    "same",
+                    "matrix",
+                    "or",
+                    "by",
+                    "means",
+                    "of",
+                    "photography",
+                    "including",
+                    "enlargements",
+                    "and",
+                    "miniatures",
+                    "or",
+                    "by",
+                    "mechanical",
+                    "or",
+                    "electronic",
+                    "rerecording",
+                    "or",
+                    "by",
+                    "chemical",
+                    "reproduction",
+                    "or",
+                    "by",
+                    "other",
+                    "equivalent",
+                    "technique",
+                    "which",
+                    "accurately",
+                    "reproduces",
+                    "the",
+                    "original",
+                    "added",
+                    "by",
+                    "stats",
+                    "1977",
+                    "ch",
+                    "708"
+                ]
+            },
+            "graph": {
+                "previous": "EVID-259",
+                "next": null,
+                "parent": "DIVISION 2. WORDS AND PHRASES DEFINED [100 - 260]"
+            },
+            "dom": {
+                "anchor": "",
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/form[2]/div[1]/div[1]/div[2]/font[1]/div[33]",
+                "css": "div.content_margins > div > div.tab_content > form > div.displaycodeleftmargin > div > div > font > div",
+                "tag": "div"
+            },
+            "raw_html": "<p></p><h6 style=\"float:left;\"><a href=\"javascript:submitCodesValues('260.','3','1977','708','', 'id_1e9a8be3-291f-11d9-a64a-d333b3af1e07')\">260.</a></h6>&nbsp;&nbsp;<p style=\"margin:0;display:inline;\">A “duplicate” is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent technique which accurately reproduces the original.</p><p style=\"margin:0 0 0.5em 0;clear:both;\"></p><p style=\"margin:0 0 2em 0;font-size:0.9em;\"><i>(Added by Stats. 1977, Ch. 708.)</i></p><p></p>"
+        }
+    ]
+}
