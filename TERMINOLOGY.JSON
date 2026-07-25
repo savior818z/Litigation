@@ -1,0 +1,1194 @@
+[
+  {
+    "term": "Acquittal",
+    "definition": "A jury verdict that a criminal defendant is not guilty, or the finding of a judge that the evidence is insufficient to support a conviction."
+  },
+  {
+    "term": "Administrative law judge",
+    "definition": "An officer in a regulatory or social service agency, such as the Department of Labor or the Social Security Administration, who decides disputes under the laws and regulations administered by the agency, subject to appeals to the Article III courts."
+  },
+  {
+    "term": "Administrative Office of the United States Courts (AO)",
+    "definition": "The federal agency responsible for collecting court statistics, administering the federal courts' budget, and performing many other administrative and programmatic functions, under the direction and supervision of the Judicial Conference of the United States."
+  },
+  {
+    "term": "Admissible",
+    "definition": "A term used to describe evidence that may be considered by a jury or judge in civil and criminal cases."
+  },
+  {
+    "term": "Adversary proceeding",
+    "definition": "A lawsuit arising in or related to a bankruptcy case (listed in Federal Rule of Bankruptcy Procedure 7001) that begins by filing a complaint with the court."
+  },
+  {
+    "term": "Affidavit",
+    "definition": "A written or printed statement made under oath."
+  },
+  {
+    "term": "Affirmed",
+    "definition": "A finding by an appellate court that the lower court decision is correct and will stand."
+  },
+  {
+    "term": "Alternate juror",
+    "definition": "A juror selected in the same manner as a regular juror who hears all the evidence but does not help decide the case unless called on to replace a regular juror."
+  },
+  {
+    "term": "Alternative dispute resolution (ADR)",
+    "definition": "Methods of resolving a legal dispute without conducting a trial, including mediation and arbitration."
+  },
+  {
+    "term": "Amicus curiae",
+    "definition": "Latin for \"friend of the court.\" It is advice formally offered to the court in a brief filed by an entity interested in, but not a party to, the case."
+  },
+  {
+    "term": "Answer",
+    "definition": "The formal written statement by a defendant in a civil case that responds to a complaint, articulating the grounds for defense."
+  },
+  {
+    "term": "Appeal",
+    "definition": "A request challenging the decision of a court by a party that has lost on one or more issues and seeks a higher court (appellate court) review of the decision to determine if it was correct. To make such a request is “to appeal” or “to take an appeal.” See “appellant” and “appellee.”"
+  },
+  {
+    "term": "Appellant",
+    "definition": "The party who appeals a lower court's decision, usually seeking reversal of that decision."
+  },
+  {
+    "term": "Appellate",
+    "definition": "About appeals; an appellate court has the power to review the judgment of a lower court (trial court) or tribunal. For example, the U.S. circuit courts of appeals review the decisions of the U.S. district courts."
+  },
+  {
+    "term": "Appellee",
+    "definition": "The party who opposes an appellant's appeal, and who seeks to persuade the appeals court to affirm the lower court's decision."
+  },
+  {
+    "term": "Arbitration",
+    "definition": "A form of alternative dispute resolution in which an arbitrator (a neutral decision maker) issues a judgment on the legal issues involved in a case after listening to presentations by each party. Arbitration can be binding or nonbinding, depending on the agreement among the parties before the proceeding."
+  },
+  {
+    "term": "Arraignment",
+    "definition": "A proceeding in which a criminal defendant is brought into court, told of the charges in an indictment or information, and asked to plead guilty or not guilty."
+  },
+  {
+    "term": "Article III judge",
+    "definition": "A federal judge who is appointed for life, during \"good behavior,\" under Article III of the U.S. Constitution. Article III judges are nominated by the President and confirmed by the Senate."
+  },
+  {
+    "term": "Assets",
+    "definition": "Property of all kinds, including real and personal, tangible and intangible."
+  },
+  {
+    "term": "Assume",
+    "definition": "Generally, to take on liability or responsibility under a contract. In a bankruptcy case, an agreement by a debtor, subject to court approval, to continue to perform its obligations under certain contracts."
+  },
+  {
+    "term": "Automatic stay",
+    "definition": "An injunction that usually comes into force automatically when a bankruptcy case is filed. This stops actions such as lawsuits, foreclosures, garnishments, and most collection activities against the debtor and property of the bankruptcy estate."
+  },
+  {
+    "term": "Bail",
+    "definition": "Security (usually in the form of money) given for the release of a criminal defendant or witness from legal custody to secure their appearance on the day and time set by the court."
+  },
+  {
+    "term": "Bankruptcy",
+    "definition": "A legal case governed primarily by title 11 of the U.S. Code (the Bankruptcy Code) — over which the federal courts have exclusive jurisdiction — by which persons or businesses unable to pay their debts can liquidate or reorganize their assets and liabilities, or seek the court’s assistance in conjunction with a foreign insolvency proceeding. Through the bankruptcy process, certain debtors may discharge their debts. Bankruptcy judges preside over these proceedings."
+  },
+  {
+    "term": "Bankruptcy administrator",
+    "definition": "An officer of the federal judiciary serving in one of the six judicial districts in Alabama and North Carolina who, like the U.S. Trustee, is responsible for supervising the administration of bankruptcy cases, estates, and trustees; monitoring plans and disclosure statements; monitoring creditors' committees; monitoring fee applications; and performing other statutory duties. See “U.S. Trustee.”"
+  },
+  {
+    "term": "Bankruptcy code",
+    "definition": "The informal name for title 11 of the United States Code (11 U.S.C. §§ 101-1532) the federal bankruptcy law."
+  },
+  {
+    "term": "Bankruptcy court",
+    "definition": "The bankruptcy judge(s) in regular active service in each district; a unit of the district court."
+  },
+  {
+    "term": "Bankruptcy estate",
+    "definition": "All legal or equitable interests of the debtor at the time of the bankruptcy filing. The estate includes all property in which the debtor has an interest, even if it is owned or held by another person."
+  },
+  {
+    "term": "Bankruptcy judge",
+    "definition": "A judicial officer of the U.S. district court who presides over bankruptcy cases and proceedings."
+  },
+  {
+    "term": "Bankruptcy petition",
+    "definition": "The document filed by the debtor (in a voluntary case) or by creditors (in an involuntary case) that commences a bankruptcy case. See: Official forms for bankruptcy petitions."
+  },
+  {
+    "term": "Bench trial",
+    "definition": "Trial by a judge without a jury."
+  },
+  {
+    "term": "Brief",
+    "definition": "A written statement submitted in a trial or appellate proceeding that explains one side's legal and factual arguments."
+  },
+  {
+    "term": "Burden of proof",
+    "definition": "The duty to prove disputed facts. In civil cases, a plaintiff generally has the burden of proving their case. In criminal cases, the government has the burden of proving the defendant's guilt. See \"standard of proof.\""
+  },
+  {
+    "term": "Business bankruptcy",
+    "definition": "A bankruptcy case in which the debtor is a business or an individual involved in business and the debts are primarily for business purposes."
+  },
+  {
+    "term": "Capital offense",
+    "definition": "A crime punishable by death."
+  },
+  {
+    "term": "Case ancillary to a foreign proceeding",
+    "definition": "A case commenced under Chapter 15 of the Bankruptcy Code by the representative appointed by a foreign tribunal to protect the U.S. property of a debtor subject to an insolvency proceeding in another country."
+  },
+  {
+    "term": "Case file",
+    "definition": "A complete collection of every document filed in court in a case."
+  },
+  {
+    "term": "Case law",
+    "definition": "The law as established in previous court decisions. A synonym for legal precedent. Akin to common law, which springs from tradition and judicial decisions."
+  },
+  {
+    "term": "Caseload",
+    "definition": "The number of cases handled by a judge or a court."
+  },
+  {
+    "term": "Cause of action",
+    "definition": "The legal basis that allows for a party to seek judicial relief."
+  },
+  {
+    "term": "Chambers",
+    "definition": "A judge’s office, typically including a conference room and workspace for the judge’s staff."
+  },
+  {
+    "term": "Chapter 11",
+    "definition": "The chapter of the Bankruptcy Code under which a debtor, usually a business like a corporation or partnership, may reorganize (or less often, liquidate) under the terms of a plan that governs repayment of its debts. Individuals may also seek relief under Chapter 11."
+  },
+  {
+    "term": "Chapter 12",
+    "definition": "The chapter of the Bankruptcy Code providing for adjustment of debts of a \"family farmer\" or \"family fisherman,\" as the terms are defined in the Bankruptcy Code."
+  },
+  {
+    "term": "Chapter 13",
+    "definition": "The chapter of the Bankruptcy Code providing for the adjustment of debts of an individual with regular income based on a court-approved plan. (Chapter 13 allows a debtor to keep certain property and pay debts over time, usually three to five years, as dictated by the plan.)"
+  },
+  {
+    "term": "Chapter 13 trustee",
+    "definition": "A person appointed to administer a Chapter 13 case. A Chapter 13 trustee's responsibilities are similar to those of a Chapter 7 trustee; however, a Chapter 13 trustee has the additional responsibilities of overseeing the debtor's plan, receiving payments from debtors, and disbursing plan payments to creditors."
+  },
+  {
+    "term": "Chapter 15",
+    "definition": "The chapter of the Bankruptcy Code dealing with international insolvency cases."
+  },
+  {
+    "term": "Chapter 7",
+    "definition": "The chapter of the Bankruptcy Code providing for \"liquidation\" (i.e., the sale of a debtor's nonexempt property and the distribution of the proceeds to creditors.)"
+  },
+  {
+    "term": "Chapter 7 trustee",
+    "definition": "A person appointed in a Chapter 7 case to represent the interests of the bankruptcy estate for the benefit of the debtor’s creditors. The trustee's responsibilities include reviewing the debtor's petition and schedules, liquidating the property of the estate, and making distributions to creditors. The trustee may also bring actions against creditors or the debtor to recover property of the bankruptcy estate."
+  },
+  {
+    "term": "Chapter 9",
+    "definition": "The chapter of the Bankruptcy Code providing for the adjustment of eligible municipalities’ debts (eligible municipalities may include cities and towns, as well as villages, counties, taxing districts, municipal utilities, school districts, and other subdivisions of a state)."
+  },
+  {
+    "term": "Chief judge",
+    "definition": "The judge who has primary responsibility for the administration of a court."
+  },
+  {
+    "term": "Circuit Executive",
+    "definition": "A federal court employee appointed by a circuit judicial council to assist the chief judge of the circuit and provide administrative support to the courts of the circuit."
+  },
+  {
+    "term": "Claim",
+    "definition": "A creditor's right to payment from a debtor or the debtor's property."
+  },
+  {
+    "term": "Class action",
+    "definition": "A lawsuit in which one or more members of a large group, or class, of individuals or other entities sue on behalf of the entire class. The district court must find that the claims of the class members contain questions of law or fact in common before the lawsuit can proceed as a class action."
+  },
+  {
+    "term": "Clerk of court",
+    "definition": "An administrative officer appointed by the judges of the court to manage the flow of cases through the court, maintain court records, handle financial matters, and provide other administrative support to the court."
+  },
+  {
+    "term": "Collateral",
+    "definition": "Property that serves as security for the satisfaction of a debt."
+  },
+  {
+    "term": "Common law",
+    "definition": "The legal system that originated in England and is now in use in the U.S. today. Common law relies on the articulation of legal principles in a historical succession of judicial decisions. Common law principles can be changed by legislation, but legislation is subject to interpretation by common law methodology."
+  },
+  {
+    "term": "Community service",
+    "definition": "A special condition the court imposes that requires an individual to work – without pay – for a civic or nonprofit organization."
+  },
+  {
+    "term": "Complaint",
+    "definition": "A civil complaint is a written statement filed by a plaintiff initiating a case, stating the jurisdiction of the court to resolve the legal dispute, the wrongs allegedly committed by the defendant, and the requested relief. A criminal complaint is a sworn document filed by the government, alleging a crime has been committed and that there is probable cause to arrest an individual."
+  },
+  {
+    "term": "Concurrent sentence",
+    "definition": "Prison terms for two or more offenses to be served at the same time, rather than one after the other. Example: Two five-year sentences and one three-year sentence, if served concurrently, result in a maximum of five years behind bars."
+  },
+  {
+    "term": "Confirmation",
+    "definition": "In the bankruptcy context, approval of a plan of reorganization, liquidation, or adjustment of debts by a bankruptcy judge. In the judicial nominations context, approval by a majority of the U.S. Senate of a candidate nominated by the president to serve as a federal judge."
+  },
+  {
+    "term": "Consecutive sentence",
+    "definition": "Prison terms for two or more offenses to be served one after the other. Example: Two five-year sentences and one three-year sentence, if served consecutively, result in a maximum of 13 years behind bars."
+  },
+  {
+    "term": "Consumer bankruptcy",
+    "definition": "A bankruptcy case filed to reduce or eliminate debts that are primarily consumer debts."
+  },
+  {
+    "term": "Consumer debtor",
+    "definition": "A debtor whose debts are primarily consumer debts."
+  },
+  {
+    "term": "Consumer debts",
+    "definition": "Debts incurred for a personal, family, or household purpose, as opposed to business needs."
+  },
+  {
+    "term": "Contested matter",
+    "definition": "Litigation to resolve any actual dispute, other than an adversary proceeding, before the bankruptcy court. See \"adversary proceeding.”"
+  },
+  {
+    "term": "Contingent claim",
+    "definition": "A claim for which the right to payment depends on the occurrence of a future event."
+  },
+  {
+    "term": "Contract",
+    "definition": "An agreement between parties that imposes legally binding obligations."
+  },
+  {
+    "term": "Conviction",
+    "definition": "A judgment of guilt against a criminal defendant."
+  },
+  {
+    "term": "Counsel",
+    "definition": "Legal advice; a term also used to refer to the lawyers in a case."
+  },
+  {
+    "term": "Count",
+    "definition": "An allegation in an indictment or information, charging a defendant with a crime. An indictment or information may contain allegations that the defendant committed more than one crime. Each allegation of a separate crime is referred to as a count."
+  },
+  {
+    "term": "Court",
+    "definition": "Government entity presided over by judges and authorized by statute to resolve legal disputes. Judges sometimes use \"court\" to refer to themselves in the third person, as in \"the court has read the briefs.\""
+  },
+  {
+    "term": "Court of International Trade",
+    "definition": "A court established by Congress under Article III of the Constitution to hear cases involving U.S. international trade law, including questions concerning tariffs, dumping, countervailing duties, and international property issues."
+  },
+  {
+    "term": "Court reporter",
+    "definition": "A person who makes a word-for-word record of what is said in court, generally by using a stenographic machine or audio recording, and then produces a transcript of the proceedings upon request."
+  },
+  {
+    "term": "Credit counseling",
+    "definition": "The \"individual or group briefing\" from an approved nonprofit budget and credit counseling agency that individual debtors must attend prior to filing under any chapter of the Bankruptcy Code. There are exceptions to this requirement for certain categories of debtors, exigent circumstances, or if the U.S. Trustee or Bankruptcy Administrator have determined that there are insufficient approved credit counseling agencies available to provide the necessary counseling. These agencies are approved by the U.S. trustee or the bankruptcy administrator. See \"Financial management”."
+  },
+  {
+    "term": "Creditor",
+    "definition": "A person to whom or business to which the debtor owes money or that claims to be owed money by the debtor."
+  },
+  {
+    "term": "Damages",
+    "definition": "Money that a defendant pays a plaintiff in a civil case if the plaintiff has won. Damages may be compensatory (for loss or injury) or punitive (to punish and deter future misconduct)."
+  },
+  {
+    "term": "De facto",
+    "definition": "Latin, meaning \"in fact\" or \"actually.\" Something that exists in fact but not as a matter of law."
+  },
+  {
+    "term": "De jure",
+    "definition": "Latin, meaning \"in law.\" Something that exists by operation of law."
+  },
+  {
+    "term": "De novo",
+    "definition": "Latin, meaning \"anew.\" A trial de novo is a completely new trial. Appellate review de novo implies no deference to the trial judge's ruling."
+  },
+  {
+    "term": "Debtor",
+    "definition": "A person, business, or government entity concerning which a case under the Bankruptcy Code has been filed."
+  },
+  {
+    "term": "Declaratory judgment",
+    "definition": "A legal determination of a court defining the rights and obligations of litigants to resolve legal uncertainty."
+  },
+  {
+    "term": "Default judgment",
+    "definition": "A judgment rendered in favor of the plaintiff because of the defendant’s failure to answer or appear to contest the plaintiff’s claim."
+  },
+  {
+    "term": "Defendant",
+    "definition": "In a civil case, the person or entity against whom the plaintiff brings suit; in a criminal case, the person accused of the crime."
+  },
+  {
+    "term": "Deposition",
+    "definition": "An oral statement made before an officer authorized by law to administer oaths. Such statements are often taken to examine potential witnesses, to obtain discovery, or to be used later in trial. See discovery."
+  },
+  {
+    "term": "Discharge",
+    "definition": "A release of a debtor from personal liability for certain dischargeable debts. Some debts, such as certain taxes and student loans cannot be discharged. A discharge also prevents the creditors owed dischargeable debts from taking any action against the debtor or the debtor's property to collect the debts."
+  },
+  {
+    "term": "Dischargeable debt",
+    "definition": "A debt for which the Bankruptcy Code allows the debtor's personal liability to be eliminated."
+  },
+  {
+    "term": "Disclosure statement",
+    "definition": "A written document prepared by a Chapter 11 plan proponent that is designed to provide \"adequate information\" to creditors to enable them to evaluate the plan."
+  },
+  {
+    "term": "Discovery",
+    "definition": "The process by which lawyers learn about their opponent’s case in preparation for trial. Typical tools of discovery include depositions, interrogatories, requests for admissions, and requests for documents. All these devices help the lawyer learn the relevant facts and collect and examine any relevant documents or other materials."
+  },
+  {
+    "term": "Dismissal with prejudice",
+    "definition": "Court action that prevents an identical lawsuit or criminal charges from being filed later."
+  },
+  {
+    "term": "Dismissal without prejudice",
+    "definition": "Court action that allows a later filing."
+  },
+  {
+    "term": "Disposable income",
+    "definition": "Income not reasonably necessary for the maintenance or support of the debtor or dependents and certain other limited purposes."
+  },
+  {
+    "term": "Docket",
+    "definition": "A log containing the complete history of each case in the form of brief chronological entries summarizing the court proceedings."
+  },
+  {
+    "term": "Due process",
+    "definition": "In criminal law, the constitutional guarantee that a defendant will receive a fair and impartial trial. In civil law, the legal rights of someone who confronts an adverse action threatening liberty or property."
+  },
+  {
+    "term": "En banc",
+    "definition": "French meaning “on the bench” or “as a full bench.” Refers to court sessions with the entire membership of a court participating. U.S. circuit courts of appeals usually decide matters sitting in panels of three judges. However, all the judges in the court may decide certain matters together or review panel decisions sitting “en banc” (occasionally spelled “in banc”). The largest courts of appeals may split their full membership into two en banc panels."
+  },
+  {
+    "term": "Equitable",
+    "definition": "Pertaining to civil suits in \"equity\" rather than in \"law.\" In English legal history, the courts of \"law\" could order the payment of damages and could afford no other remedy (see damages). A separate court of \"equity\" could order someone to do something or to cease to do something (e.g., injunction). In American jurisprudence, the federal courts have both legal and equitable power, but the distinction is still an important one. For example, a trial by jury is normally available in \"law\" cases but not in \"equity\" cases."
+  },
+  {
+    "term": "Equity",
+    "definition": "The value of a debtor's interest in property that remains after liens and other creditors' interests are considered. (Example: If a house valued at $100,000 is subject to a $80,000 mortgage, there is $20,000 of equity.)"
+  },
+  {
+    "term": "Evidence",
+    "definition": "Any material, object, or information presented in testimony or in documents that is used to persuade the fact finder (judge or jury) to decide the case in favor of one side or the other. The federal courts must follow the Federal Rules of Evidence."
+  },
+  {
+    "term": "Ex parte",
+    "definition": "A proceeding brought before a court by one party only, without notice to or challenge by the other side."
+  },
+  {
+    "term": "Exclusionary rule",
+    "definition": "Doctrine that says evidence obtained in violation of a criminal defendant's constitutional or statutory rights is not admissible at trial."
+  },
+  {
+    "term": "Exculpatory evidence",
+    "definition": "Evidence indicating that a defendant did not commit the crime."
+  },
+  {
+    "term": "Executory contracts",
+    "definition": "A contract under which both parties have material duties remaining to be performed. If a contract is executory, a debtor may assume or reject it, subject to court approval. See “assume.”"
+  },
+  {
+    "term": "Exempt assets",
+    "definition": "Property that a debtor is allowed to retain, free from the claims of creditors who do not have liens on the property."
+  },
+  {
+    "term": "Exemptions, exempt property",
+    "definition": "Certain property owned by an individual debtor that the Bankruptcy Code or applicable state law permits the debtor to keep from unsecured creditors. For example, in some states the debtor may be able to exempt all or a portion of the equity in the debtor's primary residence (homestead exemption), or some or all \"tools of the trade\" used by the debtor to make a living (i.e., auto tools for an auto mechanic or dental tools for a dentist). The availability and amount of property the debtor may exempt depends on the state the debtor lives in."
+  },
+  {
+    "term": "Family farmer",
+    "definition": "An individual, individual and spouse, corporation, or partnership engaged in a farming operation that meets certain debt limits and other statutory criteria for filing a petition under Chapter 12 of the Bankruptcy Code."
+  },
+  {
+    "term": "Federal public defender",
+    "definition": "An attorney employed by the federal courts on a full-time basis to provide legal defense to defendants who are unable to afford counsel."
+  },
+  {
+    "term": "Federal public defender organization",
+    "definition": "As provided for in the Criminal Justice Act, an organization established within a federal judicial circuit to represent criminal defendants who cannot afford an adequate defense. Each organization is supervised by a federal public defender appointed by the court of appeals for the circuit."
+  },
+  {
+    "term": "Federal question jurisdiction",
+    "definition": "Jurisdiction given to federal courts in cases involving the interpretation and application of the U.S. Constitution, acts of Congress, and treaties."
+  },
+  {
+    "term": "Felony",
+    "definition": "A serious crime carrying a penalty of more than one year in prison. See “misdemeanor.”"
+  },
+  {
+    "term": "File",
+    "definition": "(1) The act of transmitting or placing a document in the official custody of the clerk of court and entering it into the file or record of a case; (2) the official record of a case."
+  },
+  {
+    "term": "Financial management",
+    "definition": "The \"individual or group briefing\" from an approved nonprofit budget and credit counseling agency that individual debtors must attend after the bankruptcy case is filed in order to obtain a discharge. There are exceptions to this requirement for certain categories of debtors if the U.S. Trustee or Bankruptcy Administrator have determined that there are insufficient approved credit counseling agencies available to provide the necessary counseling. These agencies are approved by the U.S. trustee or the bankruptcy administrator. See \"Credit counseling.”"
+  },
+  {
+    "term": "Fraudulent transfer",
+    "definition": "A transfer of a debtor's property made with intent to defraud or for which the debtor receives less than the transferred property's reasonably equivalent value."
+  },
+  {
+    "term": "Grand jury",
+    "definition": "A body of 16-23 citizens who listen to evidence of criminal allegations presented by the prosecutors and determine whether there is probable cause to believe an individual committed an offense. See also “indictment” and U.S. attorney”."
+  },
+  {
+    "term": "Habeas corpus",
+    "definition": "Latin, meaning \"you have the body.\" A writ of habeas corpus generally is a judicial order forcing law enforcement authorities to produce a prisoner they are holding, and to justify the prisoner's continued confinement. Federal judges receive petitions for a writ of habeas corpus from state prison inmates who say their state prosecutions violated federally protected rights in some way. Federal prisoners may file habeas petitions as well. A writ of habeas corpus may also be used to bring a person in custody before the court to give testimony or to be prosecuted."
+  },
+  {
+    "term": "Hearsay",
+    "definition": "Statements by a witness who did not see or hear the incident in question but heard about it second-hand from someone else. Hearsay is usually not admissible as direct evidence in court because it does not allow a defendant to confront his or her accusers and is not as reliable as first-hand testimony, but there are many exceptions to the hearsay rule."
+  },
+  {
+    "term": "Home confinement",
+    "definition": "A condition the court imposes that requires an individual to remain at home except for certain approved activities such as work and medical appointments. Home confinement may include the use of electronic monitoring equipment to help ensure that the person stays at home as required."
+  },
+  {
+    "term": "Impeachment",
+    "definition": "(1) The process of calling a witness’s testimony into doubt. For example, if the attorney can show that the witness may have fabricated portions of their testimony, the witness is said to be “impeached.” (2) The constitutional process whereby the House of Representatives may “impeach” (accuse of misconduct) high officers of the federal government, who may then be removed from office if found guilty in a trial before the Senate."
+  },
+  {
+    "term": "In camera",
+    "definition": "Latin, meaning, “in chambers.” It often means in a judge’s chambers outside the presence of a jury and the public. In private."
+  },
+  {
+    "term": "In forma pauperis",
+    "definition": "Latin, meaning, “In the manner of a pauper.” Permission given by the court to a person to file a case without payment of the required court fees because the person cannot pay them."
+  },
+  {
+    "term": "Inculpatory evidence",
+    "definition": "Evidence indicating that a defendant did commit the crime."
+  },
+  {
+    "term": "Indictment",
+    "definition": "The formal charge issued by a grand jury stating that there is enough evidence of a crime to justify having a defendant stand trial; it is used primarily for felonies. See “information”."
+  },
+  {
+    "term": "Information",
+    "definition": "A formal accusation by a government attorney that the defendant committed a misdemeanor. An information may also be used in a felony case if the defendant formally waives their right to a grand jury indictment. See also “indictment.”"
+  },
+  {
+    "term": "Injunction",
+    "definition": "A court order preventing one or more named parties from taking some action. A preliminary injunction often is issued to allow fact-finding, so a judge can determine whether a permanent injunction is justified."
+  },
+  {
+    "term": "Insider (bankruptcy)",
+    "definition": "In bankruptcy cases, certain parties specified in section 109(31) of the Bankruptcy Code with a close relationship to the debtor such as relatives, officers, directors, and affiliates."
+  },
+  {
+    "term": "Interrogatories",
+    "definition": "Written questions sent by one party in a lawsuit to an opposing party as part of pretrial discovery in civil cases. The party receiving the interrogatories is required to answer them in writing under oath."
+  },
+  {
+    "term": "Issue",
+    "definition": "(1) The disputed point between parties in a lawsuit (2) To send out officially, as in a court issuing an order."
+  },
+  {
+    "term": "Joint administration",
+    "definition": "A court-approved mechanism under which two or more cases of related debtors can be administered together for procedural purposes, as specified in Federal Rule of Bankruptcy Procedure 1015.Assuming no conflicts of interest, these separate businesses or individuals may be permitted to hire the same professionals, schedule joint hearings, file a joint plan, etc."
+  },
+  {
+    "term": "Joint petition",
+    "definition": "One bankruptcy petition filed together by spouses."
+  },
+  {
+    "term": "Judge",
+    "definition": "An official with statutory authority to decide legal disputes according to the law. Used generically, the term “judge” may refer to all judicial officers, including Supreme Court justices, state and federal judges, military judges, and executive branch appointees who preside over tribunals and other bodies that decide legal disputes. See also “Article III judge,” “magistrate judge,” and “bankruptcy judge.”"
+  },
+  {
+    "term": "Judgeship",
+    "definition": "The position of judge. By statute, Congress authorizes the number of judgeships for each district, bankruptcy, and appellate court. The Judicial Conference of the United States authorizes the number of magistrate judge positions in each district."
+  },
+  {
+    "term": "Judgment",
+    "definition": "The official decision of a court finally resolving the dispute between the parties to the lawsuit."
+  },
+  {
+    "term": "Judicial Conference of the United States",
+    "definition": "The policymaking body for the federal courts. It convenes twice a year to consider administrative and policy issues affecting the federal court system, and to make recommendations to Congress concerning legislation involving the Judicial Branch."
+  },
+  {
+    "term": "Jurisdiction",
+    "definition": "The legal authority of a court to hear and decide a certain type of case. See also “Venue.”"
+  },
+  {
+    "term": "Jurisprudence",
+    "definition": "The study of law and the structure of the legal system."
+  },
+  {
+    "term": "Jury",
+    "definition": "The group of local citizens selected by the court to hear the evidence in a trial and render a verdict on matters of fact. See also “grand jury.”"
+  },
+  {
+    "term": "Jury instructions",
+    "definition": "A judge's directions to the jury before it begins deliberations regarding the factual questions that it must answer and the legal rules that it must apply."
+  },
+  {
+    "term": "Lawsuit",
+    "definition": "A legal action filed in a court in which one or more plaintiffs allege that a defendant’s (or defendants’) unlawful actions have harmed them."
+  },
+  {
+    "term": "Lien",
+    "definition": "A claim or charge on property to secure payment of a debt or performance of an obligation."
+  },
+  {
+    "term": "Liquidated claim",
+    "definition": "A creditor's claim for a fixed amount of money."
+  },
+  {
+    "term": "Liquidation",
+    "definition": "The sale of a debtor's property with the proceeds generally used for the benefit of creditors."
+  },
+  {
+    "term": "Litigation",
+    "definition": "A case, controversy, or lawsuit. Participants (plaintiffs and defendants) in lawsuits are called litigants."
+  },
+  {
+    "term": "Magistrate judge",
+    "definition": "A judicial officer of a district court who conducts initial proceedings in criminal cases, decides criminal misdemeanor cases, conducts many pretrial civil and criminal matters on behalf of district judges. When all parties consent, a magistrate judge may preside over certain civil cases."
+  },
+  {
+    "term": "Means test",
+    "definition": "Section 707(b)(2) of the Bankruptcy Code applies a \"means test\" to determine whether an individual debtor's chapter 7 filing is presumed to be an abuse of the Bankruptcy Code requiring dismissal or conversion of the case (generally to chapter 13). Abuse is presumed if the debtor's aggregate current monthly income (see definition above) over 5 years, net of certain statutorily allowed expenses is more than (i) $10,000, or (ii) 25% of the debtor's nonpriority unsecured debt, as long as that amount is at least $6,000. The debtor may rebut a presumption of abuse only by a showing of special circumstances that justify additional expenses or adjustments of current monthly income."
+  },
+  {
+    "term": "Mediation",
+    "definition": "The alternative dispute resolution (ADR) method most commonly used in the district courts. Mediation is an informal process in which a mediator facilitates negotiations between the parties to help them resolve their dispute. See alternative dispute resolution."
+  },
+  {
+    "term": "Misdemeanor",
+    "definition": "An offense punishable by one year of imprisonment or less. See “felony”."
+  },
+  {
+    "term": "Mistrial",
+    "definition": "An invalid trial, caused by fundamental error. When a mistrial is declared, the trial must start again."
+  },
+  {
+    "term": "Moot",
+    "definition": "Not subject to a court ruling because the controversy has not actually arisen or has ended."
+  },
+  {
+    "term": "Motion",
+    "definition": "A request by a litigant to a judge for a decision on an issue relating to the case."
+  },
+  {
+    "term": "Motion in Limine",
+    "definition": "A pretrial motion requesting the court to prohibit the other side from presenting, or even referring to, evidence on matters said to be so highly prejudicial that no steps taken by the judge can prevent the jury from being unduly influenced."
+  },
+  {
+    "term": "Motion to lift the automatic stay",
+    "definition": "A request by a creditor to allow the creditor to take action against the debtor or the debtor's property that would otherwise be prohibited by the automatic stay."
+  },
+  {
+    "term": "No-asset case",
+    "definition": "A Chapter 7 case in which there are no non-exempt assets available to satisfy any portion of the creditors' unsecured claims."
+  },
+  {
+    "term": "Nolo contendere",
+    "definition": "Also referred to as no contest. A plea of nolo contendere has the same effect as a plea of guilty, as far as the criminal sentence is concerned, but may not be considered as an admission of guilt for any other purpose."
+  },
+  {
+    "term": "Nondischargeable debt",
+    "definition": "A debt for which the debtor’s personal liability is not allowed to be discharged in bankruptcy. Examples include debts for alimony or child support, certain taxes, debts for most government funded or guaranteed educational loans or benefit overpayments, debts arising from death or personal injury caused by driving while intoxicated or under the influence of drugs, and debts for restitution or a criminal fine included in a sentence on the debtor's conviction of a crime."
+  },
+  {
+    "term": "Nonexempt assets",
+    "definition": "Property of a debtor that can be liquidated to satisfy claims of creditors."
+  },
+  {
+    "term": "Objection to discharge",
+    "definition": "A trustee or creditor’s objection to the debtor receiving a discharge in a bankruptcy case for one or more of the reasons set forth in section 727(a) of the Bankruptcy Code, such as concealing or destroying property of the estate, making a false oath or account in connection with the case, and refusing to obey lawful orders of the court."
+  },
+  {
+    "term": "Objection to dischargeability",
+    "definition": "A trustee's or creditor's objection to the debtor being released from personal liability for certain dischargeable debts. Common reasons include allegations that the debt to be discharged was incurred by false pretenses or that debt arose because of the debtor's fraud while acting as a fiduciary."
+  },
+  {
+    "term": "Objection to exemptions",
+    "definition": "A trustee's or creditor's objection to the"
+  },
+  {
+    "term": "oath",
+    "definition": "A promise to tell the truth."
+  },
+  {
+    "term": "objection",
+    "definition": "A protest by an attorney, challenging a statement or question made at trial. Common objections include an attorney “leading the witness” or a witness making a statement that is hearsay. Once an objection is made, the judge must decide whether to allow the question or statement."
+  },
+  {
+    "term": "opinion",
+    "definition": "A judge's written explanation of a decision of the court. In an appeal, multiple opinions may be written. The court’s ruling comes from a majority of judges and forms the majority opinion. A dissenting opinion disagrees with the majority because of the reasoning and/or the principles of law on which the decision is based. A concurring opinion agrees with the end result of the court but offers further comment possibly because they disagree with how the court reached its conclusion."
+  },
+  {
+    "term": "oral argument",
+    "definition": "An opportunity for lawyers to summarize their position before the court in an appeal and also to answer the judges' questions."
+  },
+  {
+    "term": "panel",
+    "definition": "(1) In appellate cases, a group of judges (usually three) assigned to decide the case; (2) In the jury selection process, the group of potential jurors."
+  },
+  {
+    "term": "parties",
+    "definition": "Plaintiffs and defendants (petitioners and respondents) to lawsuits, also known as appellants and appellees in appeals, and their lawyers."
+  },
+  {
+    "term": "petit jury (or trial jury)",
+    "definition": "A group of citizens who hear the evidence presented by both sides at trial and determine the facts in dispute. Federal criminal juries consist of 12 persons. Federal civil juries consist of six persons."
+  },
+  {
+    "term": "plaintiff",
+    "definition": "The person who files the complaint in a civil lawsuit."
+  },
+  {
+    "term": "plea",
+    "definition": "In a criminal case, the defendant's statement pleading \"guilty\" or \"not guilty\" in answer to the charges in open court. A plea of nolo contendere or an Alford plea may also be made. A guilty plea allows the defendant to forego a trial."
+  },
+  {
+    "term": "plea deal (or plea bargain or agreement)",
+    "definition": "Agreement between the defendant and prosecutor where the defendant pleads guilty in exchange for a concession by the prosecutor. It may include lesser charges, a dismissal of charges, or the prosecutor’s recommendation to the judge of a more lenient sentence."
+  },
+  {
+    "term": "pleadings",
+    "definition": "Written statements of the parties in a civil case of their positions. In federal courts, the principal pleadings are the complaint and the answer."
+  },
+  {
+    "term": "precedent",
+    "definition": "A court decision in an earlier case with facts and law similar to a dispute currently before a court. Precedent will ordinarily govern the decision of a later similar case, unless a party can show that it was wrongly decided or that it differed in some significant way. Some precedent is binding, meaning that it must be followed. Other precedents need not be followed by the court but can be considered influential."
+  },
+  {
+    "term": "procedure",
+    "definition": "The rules for the conduct of a lawsuit; there are rules of civil, criminal, evidence, bankruptcy, and appellate procedure."
+  },
+  {
+    "term": "preliminary hearing",
+    "definition": "A hearing where the judge decides whether there is enough evidence to require the defendant to go to trial. Preliminary hearings do not require the same rules as trials. For example, hearsay is often admissible during the preliminary hearing but not at trial."
+  },
+  {
+    "term": "pretrial conference",
+    "definition": "A meeting of the judge and lawyers to discuss which matters should be presented to the jury, to review evidence and witnesses, to set a timetable, and to discuss the settlement of the case."
+  },
+  {
+    "term": "probable cause",
+    "definition": "An amount of suspicion leading one to believe certain facts are probably true. The Fourth Amendment requires probable cause for the issuance of an arrest or search warrant."
+  },
+  {
+    "term": "probation",
+    "definition": "A sentencing alternative to imprisonment in which the court releases convicted defendants under supervision as long as certain conditions are observed."
+  },
+  {
+    "term": "probation officers (or pretrial services officers)",
+    "definition": "Screen applicants for pretrial release and monitor convicted offenders released under court supervision."
+  },
+  {
+    "term": "pro se",
+    "definition": "A Latin term meaning \"on one's own behalf\"; in courts, it refers to persons who present their own cases without lawyers."
+  },
+  {
+    "term": "prosecute",
+    "definition": "To charge someone with a crime. A prosecutor tries a criminal case on behalf of the government."
+  },
+  {
+    "term": "public defenders",
+    "definition": "Represent defendants who can't afford an attorney in criminal matters."
+  },
+  {
+    "term": "record",
+    "definition": "A written account of all the acts and proceedings in a lawsuit."
+  },
+  {
+    "term": "remand",
+    "definition": "When an appellate court sends a case back to a lower court for further proceedings. The lower court is often required to do something differently, but that does not always mean the court’s final decision will change"
+  },
+  {
+    "term": "reporter",
+    "definition": "Makes a record of court proceedings, prepares a transcript, and publishes the court's opinions or decisions."
+  },
+  {
+    "term": "reverse",
+    "definition": "When an appellate court sets aside the decision of a lower court because of an error. A reversal is often followed by a remand. For example, if the defendant argued on appeal that certain evidence should not have been used at trial, and the appeals court agrees, the case will be remanded in order for the trial court to reconsider the case without that evidence."
+  },
+  {
+    "term": "search warrant",
+    "definition": "Orders that a specific location be searched for items, which if found, can be used in court as evidence. Search warrants require probable cause in order to be issued."
+  },
+  {
+    "term": "sentence",
+    "definition": "The punishment ordered by a court for a defendant convicted of a crime. Federal courts look to the United States Sentencing Commission Guidelines when deciding the proper punishment for a given crime."
+  },
+  {
+    "term": "service of process",
+    "definition": "The service of writs or summonses to the appropriate party."
+  },
+  {
+    "term": "settlement",
+    "definition": "Parties to a lawsuit resolve their difference without having a trial. Settlements often involve the payment of compensation by one party in satisfaction of the other party's claims."
+  },
+  {
+    "term": "sequester",
+    "definition": "To separate. Sometimes juries are sequestered from outside influences during their deliberations."
+  },
+  {
+    "term": "sidebar",
+    "definition": "A conference between the judge and lawyers held out of earshot of the jury and spectators."
+  },
+  {
+    "term": "statement",
+    "definition": "A description that a witness gives to the police and that the police write down."
+  },
+  {
+    "term": "statute",
+    "definition": "A law passed by a legislature."
+  },
+  {
+    "term": "statute of limitations",
+    "definition": "A law that sets the time within which parties must take action to enforce their rights."
+  },
+  {
+    "term": "stay",
+    "definition": "A temporary pause or suspension of a judicial proceeding. Stays are usually designed to terminate upon the completion of specified event (e.g., a judicial decision in a separate case or the end of a government shutdown) or after a specific period of time."
+  },
+  {
+    "term": "subpoena",
+    "definition": "A command to a witness to appear and give testimony."
+  },
+  {
+    "term": "subpoena duces tecum",
+    "definition": "A command to a witness to produce documents."
+  },
+  {
+    "term": "summary judgment",
+    "definition": "A decision made on the basis of statements and evidence presented for the record without a trial. It is used when there is no dispute as to the facts of the case, and one party is entitled to judgment as a matter of law."
+  },
+  {
+    "term": "temporary restraining order",
+    "definition": "Prohibits a person from an action that is likely to cause irreparable harm. This differs from an injunction in that it may be granted immediately, without notice to the opposing party, and without a hearing. It is intended to last only until a hearing can be held."
+  },
+  {
+    "term": "testify",
+    "definition": "Answer questions in court."
+  },
+  {
+    "term": "testimony",
+    "definition": "Evidence presented orally by witnesses during trials or before grand juries."
+  },
+  {
+    "term": "tort",
+    "definition": "A civil wrong or breach of a duty to another person as outlined by law. A very common tort is negligent operation of a motor vehicle that results in property damage and personal injury in an automobile accident."
+  },
+  {
+    "term": "transcript",
+    "definition": "A written, word-for-word record of what was said, either in a proceeding such as a trial or during some other conversation."
+  },
+  {
+    "term": "trial",
+    "definition": "A hearing that takes place when the defendant pleads \"not guilty,” and the parties are required to come to court to present evidence."
+  },
+  {
+    "term": "uphold",
+    "definition": "The decision of an appellate court not to reverse a lower court decision. Also called “affirm.”"
+  },
+  {
+    "term": "U.S. Attorney (or federal prosecutor)",
+    "definition": "A lawyer appointed by the President in each judicial district to prosecute and defend cases for the federal government."
+  },
+  {
+    "term": "U.S. Marshal (or bailiff)",
+    "definition": "enforce the rules of behavior in courtrooms."
+  },
+  {
+    "term": "venue",
+    "definition": "The geographical location in which a case is tried."
+  },
+  {
+    "term": "verdict",
+    "definition": "The decision of a petit jury or a judge."
+  },
+  {
+    "term": "victim advocate",
+    "definition": "work with prosecutors and assist the victims of a crime."
+  },
+  {
+    "term": "voir dire",
+    "definition": "The process by which judges and lawyers select a petit jury from among those eligible to serve by questioning them to determine knowledge of the facts of the case and a willingness to decide the case only on the evidence presented in court. \"Voir dire\" is a phrase meaning \"to speak the truth.\""
+  },
+  {
+    "term": "warrant",
+    "definition": "An arrest warrant is a written order directing the arrest of a party. A search warrant orders that a specific location be searched for items, which if found, can be used in court as evidence. Search warrants require probable cause in order to be issued."
+  },
+  {
+    "term": "witness",
+    "definition": "A person called upon by either side in a lawsuit to give testimony before the court or jury."
+  },
+  {
+    "term": "writ",
+    "definition": "A formal written command, issued from the court, requiring the performance of a specific act."
+  },
+  {
+    "term": "writ of certiorari",
+    "definition": "An order issued by the Supreme Court directing the lower court to transmit records for a case for which it will hear on appeal. The Supreme Court is usually not required to hear appeals of cases. A denial of “cert” by the Supreme Court allows the previous ruling to stand."
+  },
+  {
+    "term": "Objection to dischargeability",
+    "definition": "A trustee's or creditor's objection to the debtor being released from personal liability for certain dischargeable debts. Common reasons include allegations that the debt to be discharged was incurred by false pretenses or that debt arose because of the debtor's fraud while acting as a fiduciary."
+  },
+  {
+    "term": "Objection to exemptions",
+    "definition": "A trustee's or creditor's objection to the debtor's attempt to claim certain property as exempt from being treated as property of a bankruptcy estate."
+  },
+  {
+    "term": "Opinion",
+    "definition": "A judge's written explanation of the decision of the court. Because a case may be heard by three or more judges in the court of appeals, the opinion in appellate decisions can take several forms. If all the judges completely agree on the result, one judge will write the opinion for all. If all the judges do not agree, the formal decision will be based upon the view of the majority, and one member of the majority will write the opinion. The judges who did not agree with the majority may write separately in dissenting or concurring opinions to present their views. A dissenting opinion disagrees with the majority opinion because of the reasoning and/or the principles of law the majority used to decide the case. A concurring opinion agrees with the decision of the majority opinion but offers further comment or clarification or even an entirely different reason for reaching the same result. Only the majority opinion can serve as binding precedent in future cases. See also “precedent”."
+  },
+  {
+    "term": "Oral argument",
+    "definition": "An opportunity for lawyers and pro se parties to summarize their position before the court and also to answer judges' questions."
+  },
+  {
+    "term": "Panel",
+    "definition": "(1) In appellate cases, a group of judges (usually three) assigned to decide the case. (2) In the jury selection process, the group of potential jurors. (3) The list of attorneys who are both available and qualified to serve as court-appointed counsel for criminal defendants who cannot afford their own counsel."
+  },
+  {
+    "term": "Parole",
+    "definition": "The release of a prison inmate – formerly granted by the U.S. Parole Commission – after the inmate has completed part of their sentence in a federal prison. When the parolee is released to the community, they are placed under the supervision of a U.S. probation officer. The Sentencing Reform Act of 1984 abolished parole in favor of a determinate sentencing system in which the sentence is set by sentencing guidelines. Now, without the option of parole, the term of imprisonment the court imposes is the actual time the person spends in prison."
+  },
+  {
+    "term": "Party",
+    "definition": "An individual or entity involved in a legal action, such as a plaintiff and defendant in a civil case."
+  },
+  {
+    "term": "Party in interest",
+    "definition": "A party who has standing to be heard by the court in a matter to be decided in a bankruptcy case. The debtor, U.S. Trustee or bankruptcy administrator, case trustee, and creditors are parties in interest for most matters."
+  },
+  {
+    "term": "Per curiam",
+    "definition": "Latin, meaning \"for the court.\" In appellate courts, often refers to an unsigned opinion."
+  },
+  {
+    "term": "Peremptory challenge",
+    "definition": "A district court may grant each side in a civil or criminal trial the right to exclude a certain number of prospective jurors without cause or giving a reason."
+  },
+  {
+    "term": "Petit jury (or trial jury)",
+    "definition": "A group of citizens who hear the evidence presented by both sides at trial and determine the facts in dispute. Federal criminal juries consist of 12 persons. Federal civil juries consist of at least six persons. See “jury” and “grand jury.”"
+  },
+  {
+    "term": "Petition",
+    "definition": "A formal application in writing made to a court or other official body requesting judicial action of some character. See also: “bankruptcy petition.”"
+  },
+  {
+    "term": "Petition preparer",
+    "definition": "A person or business not authorized to practice law that prepares bankruptcy petitions."
+  },
+  {
+    "term": "Petty offense",
+    "definition": "A federal misdemeanor punishable by six months or less in prison."
+  },
+  {
+    "term": "Plaintiff",
+    "definition": "A person or entity that files a civil lawsuit."
+  },
+  {
+    "term": "Plan",
+    "definition": "A detailed proposal by the bankruptcy plan proponent (usually the debtor) for how claims or interests of the debtor will be paid or otherwise treated if the plan is confirmed."
+  },
+  {
+    "term": "Plea",
+    "definition": "In a criminal case, the defendant's statement pleading \"guilty\" or \"not guilty\" in answer to the charges. See \"nolo contendere.\""
+  },
+  {
+    "term": "Pleadings",
+    "definition": "Written statements filed with the court that describe a party's legal or factual assertions about the case."
+  },
+  {
+    "term": "Postpetition transfer",
+    "definition": "A transfer of property of the bankruptcy estate made after the commencement of the bankruptcy case."
+  },
+  {
+    "term": "Prebankruptcy planning",
+    "definition": "The arrangement (or rearrangement) of a debtor's property or other circumstances before bankruptcy to allow the debtor to take maximum advantage of various Bankruptcy Code provisions."
+  },
+  {
+    "term": "Precedent",
+    "definition": "A court decision in an earlier case with facts and legal issues similar to a dispute currently before a court. Judges will generally \"follow precedent\" - meaning that they use the principles established in earlier cases to decide new cases that have similar facts and raise similar legal issues. A judge will disregard precedent if a party can show that the earlier case was wrongly decided, or that it differed in some significant way from the current case."
+  },
+  {
+    "term": "Preference (bankruptcy)",
+    "definition": "A debt payment made to a creditor in the 90-day period before a debtor files bankruptcy (or within one year if the creditor was an insider) that gives the creditor more than the creditor would receive in a Chapter 7 liquidation and may be avoided and recovered by the debtor or trustee, subject to court approval."
+  },
+  {
+    "term": "Presentence report",
+    "definition": "A report prepared by a court's probation officer, after a person has been convicted of an offense, summarizing for the court the background information needed to determine the appropriate sentence."
+  },
+  {
+    "term": "Pretrial conference",
+    "definition": "A meeting of the judge and lawyers or parties prior to a trial, to discuss which matters should be presented, review proposed evidence and witnesses, and set a trial schedule. Typically, the judge and the parties also discuss the possibility of settlement of the case."
+  },
+  {
+    "term": "Pretrial services",
+    "definition": "A function of the federal courts that takes place at the very start of the criminal justice process – after a person has been arrested and charged with a federal crime and before going to trial. Pretrial services officers focus on investigating the backgrounds of these persons to help the court determine whether to release or detain them while they await trial. The decision is based on whether these individuals are likely to flee or pose a threat to the community. If the court orders release, a pretrial services officer supervises the person in the community until they return to court."
+  },
+  {
+    "term": "Priority",
+    "definition": "The Bankruptcy Code's statutory ranking of unsecured claims that determines the order in which unsecured claims will be paid if there is not enough money to pay all unsecured claims in full."
+  },
+  {
+    "term": "Priority claim",
+    "definition": "An unsecured claim that is entitled to be paid ahead of other unsecured claims that are either of lower priority or not entitled to priority status. Priority refers to the order in which these unsecured claims are to be paid."
+  },
+  {
+    "term": "Pro se",
+    "definition": "A Latin term meaning “on one’s own behalf.” In courts, it refers to persons who present their own cases without lawyers."
+  },
+  {
+    "term": "Pro tem",
+    "definition": "A Latin phrase meaning \"temporary.\" In the law, it's used to refer to a temporary assignment of a judge to manage court proceedings when the regular judge is unable to. This can occur in districts with high caseloads to ensure cases efficiently move through the court system."
+  },
+  {
+    "term": "Probation",
+    "definition": "A sentencing alternative to imprisonment in which the court releases convicted defendants under supervision of a probation officer, who makes certain that the defendant follows certain rules (e.g., gets a job, gets drug counseling)"
+  },
+  {
+    "term": "Probation officer",
+    "definition": "Officers of the probation office of a court. Probation officer duties include conducting presentence investigations, preparing presentence reports on convicted defendants, and supervising released defendants."
+  },
+  {
+    "term": "Procedure",
+    "definition": "The rules for conducting a case before the court. There are rules of civil, criminal, evidence, bankruptcy, and appellate procedure."
+  },
+  {
+    "term": "Proof of claim",
+    "definition": "A written statement describing the reason a debtor owes a creditor money, which typically sets forth the amount of money owed. (There is an official form for this purpose.)"
+  },
+  {
+    "term": "Property of the estate",
+    "definition": "All legal or equitable interests of the debtor in property as of the commencement of the case."
+  },
+  {
+    "term": "Prosecute",
+    "definition": "To charge someone with a crime. A prosecutor tries a criminal case on behalf of the government."
+  },
+  {
+    "term": "Reaffirmation agreement",
+    "definition": "An agreement, typically between a Chapter 7 debtor and a secured creditor, under which the debtor agrees to continue paying a dischargeable debt (such as an auto loan) after the bankruptcy, in exchange for being able to keep collateral (i.e. the car) that would otherwise be subject to repossession."
+  },
+  {
+    "term": "Recalled judge",
+    "definition": "A retired magistrate judge, bankruptcy judge, or judge of the Court of Federal Claims may return to duty for a limited term as a “recalled” judge."
+  },
+  {
+    "term": "Record",
+    "definition": "The official documented account of the proceedings in a case, including all pleadings, evidence, and exhibits submitted in the course of the case."
+  },
+  {
+    "term": "Redemption",
+    "definition": "A procedure in a Chapter 7 case whereby a debtor removes a secured creditor's lien on collateral by paying the creditor the value of the property. The debtor may then retain the property."
+  },
+  {
+    "term": "Remand",
+    "definition": "The act of an appellate court sending a case to a lower court for further proceedings."
+  },
+  {
+    "term": "Reverse",
+    "definition": "The act of a court setting aside the decision of a lower court. A reversal is often accompanied by a remand to the lower court for further proceedings."
+  },
+  {
+    "term": "Sanction",
+    "definition": "A penalty or other type of enforcement used to bring about compliance with the law or with rules and regulations."
+  },
+  {
+    "term": "Schedules",
+    "definition": "Detailed lists filed by the debtor in a bankruptcy case along with (or shortly after filing) the petition showing the debtor's assets, liabilities, and other financial information. See bankruptcy forms."
+  },
+  {
+    "term": "Section 341 meeting",
+    "definition": "The meeting of creditors and equity security holders required by Section 341 of the Bankruptcy Code at which the debtor is questioned under oath by the trustee and any other parties present, about the debtor’s financial affairs. Also called a meeting of creditors."
+  },
+  {
+    "term": "Secured creditor",
+    "definition": "A creditor with a lien securing some or all of its claim against the debtor."
+  },
+  {
+    "term": "Secured debt",
+    "definition": "Debt backed by a mortgage, pledge of collateral, or other lien. Examples include home mortgages, auto loans and tax liens."
+  },
+  {
+    "term": "Senior judge",
+    "definition": "A federal judge who, after attaining the requisite age and length of judicial experience, takes senior status, thus creating a vacancy on the court. Senior judges may continue to perform judicial duties when designated and assigned under 28 U.S.C. § 294."
+  },
+  {
+    "term": "Sentence",
+    "definition": "The punishment ordered by a court for a defendant convicted of a crime."
+  },
+  {
+    "term": "Sentencing guidelines",
+    "definition": "A set of rules and principles established by the United States Sentencing Commission that trial judges use as one factor to consider when they determine the sentence for a convicted defendant."
+  },
+  {
+    "term": "Sequester",
+    "definition": "To separate. Sometimes juries are sequestered or isolated from outside influences during a trial or during their deliberations."
+  },
+  {
+    "term": "Service of process",
+    "definition": "The delivery of writs or summonses to the appropriate party."
+  },
+  {
+    "term": "Settlement",
+    "definition": "Parties to a lawsuit resolve their dispute without having a trial. Settlements often involve the payment of compensation by one party in at least partial satisfaction of the other party's claims but usually do not include the admission of fault."
+  },
+  {
+    "term": "Small business or Subchapter V case",
+    "definition": "The Bankruptcy Code allows small business debtors to file for relief under two different special categories of Chapter 11 - small business or subchapter V. A debtor may elect either of these two options based on certain eligibility criteria. Both small business and subchapter V cases are treated differently than a traditional Chapter 11 case primarily due to accelerated deadlines and the speed with which the plan is confirmed."
+  },
+  {
+    "term": "Standard of proof",
+    "definition": "Degree of proof required. In criminal cases, prosecutors must prove a defendant's guilt \"beyond a reasonable doubt.\" Most civil causes of action require proof \"by a preponderance of the evidence\" (50 percent plus), but in some the standard is higher and requires \"clear and convincing\" proof."
+  },
+  {
+    "term": "Statement of financial affairs",
+    "definition": "A detailed form that the debtor completes and files with the court with answers to a series of questions the debtor must answer in writing concerning sources of income, transfers of property, lawsuits by creditors, etc. View the official form."
+  },
+  {
+    "term": "Statement of intention",
+    "definition": "A declaration made by an individual Chapter 7 debtor to inform the court and creditors of the debtor’s plans for dealing with property subject to security interests and unexpired personal property leases. View the official form."
+  },
+  {
+    "term": "Statute",
+    "definition": "A law passed by a legislature."
+  },
+  {
+    "term": "Statute of limitations",
+    "definition": "The time within which a lawsuit must be filed or a criminal prosecution must begin. The deadline can vary, depending on the type of civil case or the crime charged."
+  },
+  {
+    "term": "Sua sponte",
+    "definition": "Latin, meaning \"of its own will.\" Often refers to a court taking an action in a case without being asked to do so by any party."
+  },
+  {
+    "term": "Subordination",
+    "definition": "The act or process by which a person's rights or claims are ranked below those of others."
+  },
+  {
+    "term": "Subpoena",
+    "definition": "A command, issued under a court's authority, to a witness to appear and give testimony."
+  },
+  {
+    "term": "Subpoena duces tecum",
+    "definition": "A command to a witness to appear and produce documents."
+  },
+  {
+    "term": "Substantive consolidation",
+    "definition": "Pooling the assets and liabilities of two or more related debtors to pay creditors under a plan. Substantive consolidation is viewed as an extraordinary remedy since the action must not only justify the benefit that one entity’s creditors would receive, but also any harm that other creditors would suffer as a result."
+  },
+  {
+    "term": "Summary judgment",
+    "definition": "A decision made on the basis of statements and evidence presented for the record without a trial. It is used when it is not necessary to resolve any factual disputes in the case. Summary judgment is granted when — on the undisputed facts in the record — one party is entitled to judgment as a matter of law."
+  },
+  {
+    "term": "Temporary restraining order",
+    "definition": "Akin to a preliminary injunction, it is a judge's short-term order forbidding certain actions until a full hearing can be conducted. Often referred to as a TRO."
+  },
+  {
+    "term": "Testimony",
+    "definition": "Evidence presented by witnesses during trials or other legal proceedings."
+  },
+  {
+    "term": "Toll",
+    "definition": "To stop the running of a time period, such as one set by a statute of limitations, essentially extending the time for parties to take legal action."
+  },
+  {
+    "term": "Tort",
+    "definition": "A civil wrong or breach of a duty to another person. The “victim” of a tort may be entitled to sue for the harm suffered. Victims of crimes may also sue in tort for the wrongs done to them. Most tort cases are handled in state court, except when the tort occurs on federal property (e.g., a military base), when the government is the defendant, or when a dispute between parties from different states falls under the federal court’s diversity jurisdiction."
+  },
+  {
+    "term": "Transcript",
+    "definition": "A written, word-for-word record of what was said, either in a proceeding such as a trial, or during some other formal conversation, such as a hearing or oral deposition."
+  },
+  {
+    "term": "Transfer",
+    "definition": "Any mode or means by which a debtor disposes of or parts with property."
+  },
+  {
+    "term": "Trustee",
+    "definition": "In a bankruptcy case, a person appointed to represent the interests of the bankruptcy estate. The trustee’s responsibilities may include liquidating the property of the estate, making distributions to creditors, and bringing actions against creditors or the debtor to recover property of the bankruptcy estate. For information on how trustees work in different chapters, see \"Bankruptcy Basics.\""
+  },
+  {
+    "term": "U.S. attorney",
+    "definition": "A lawyer appointed by the President in each judicial district to prosecute and defend cases for the federal government. The U.S. Attorney employs a staff of Assistant U.S. Attorneys who appear as the government's attorneys in individual cases."
+  },
+  {
+    "term": "U.S. trustee",
+    "definition": "An officer of the U.S. Department of Justice responsible for supervising the administration of bankruptcy cases, estates, and trustees; monitoring plans and disclosure statements; monitoring creditors' committees; monitoring fee applications; and performing other statutory duties."
+  },
+  {
+    "term": "Undersecured claim",
+    "definition": "A right to payment based on a debt secured by property that is worth less than the amount of the debt."
+  },
+  {
+    "term": "Undue hardship (bankruptcy)",
+    "definition": "The legal standard for discharging most student debts in bankruptcy under section 523(a)(8) of the Bankruptcy Code."
+  },
+  {
+    "term": "Unlawful detainer action",
+    "definition": "A lawsuit brought by a landlord against a tenant to evict the tenant from rental property – usually for nonpayment of rent."
+  },
+  {
+    "term": "Unliquidated claim",
+    "definition": "A claim for which a specific value has not yet been determined."
+  },
+  {
+    "term": "Unscheduled debt",
+    "definition": "A debt that should have been listed by the debtor in the schedules filed with the court in a bankruptcy case but was not. Depending on the circumstances, an unscheduled debt might not be discharged."
+  },
+  {
+    "term": "Unsecured claim",
+    "definition": "A claim for which a creditor holds no security, such as a mortgage or lien."
+  },
+  {
+    "term": "Uphold",
+    "definition": "The appellate court agrees with the lower court decision and allows it to stand. See “affirmed.\""
+  },
+  {
+    "term": "Venue",
+    "definition": "The geographic area in which a case is filed and heard. A change of venue is a change or transfer of a case from one judicial district to another."
+  },
+  {
+    "term": "Verdict",
+    "definition": "The decision of a trial jury or a judge that determines the guilt or innocence of a criminal defendant, or that determines the final outcome of a civil case."
+  },
+  {
+    "term": "Voir dire",
+    "definition": "“Voir dire” is a French phrase meaning “to speak the truth.\" The process by which judges and lawyers select a trial jury from among those eligible to serve by questioning them to make certain that they would fairly decide the case."
+  },
+  {
+    "term": "Wage garnishment",
+    "definition": "A non-bankruptcy legal proceeding whereby a plaintiff or creditor seeks to subject to their claim the future wages of a debtor. In other words, the creditor seeks to have part of the debtor's future wages paid to the creditor for a debt owed to the creditor."
+  },
+  {
+    "term": "Warrant",
+    "definition": "Court authorization, most often for law enforcement officers, to conduct a search or make an arrest."
+  },
+  {
+    "term": "Witness",
+    "definition": "A person called upon in a case to give testimony before the court or jury."
+  },
+  {
+    "term": "Writ",
+    "definition": "A written command or order, issued by the court, requiring the performance of a specific act."
+  },
+  {
+    "term": "Writ of certiorari",
+    "definition": "An order issued by the U.S. Supreme Court directing the lower court to transmit records for a case it will hear on appeal."
+  }
+]
